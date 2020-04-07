@@ -15,10 +15,12 @@ Feel free to contact the instructors with any questions. But first, please read 
 
 <br>
 
-## Course Logistics
+We **will** be offering this course online over the summer. More details, as they become available, will be posted here.
+
+<!-- ## Course Logistics -->
 
 ---
-
+<!-- 
 **Q. Where and when is class?**
 
 **A.** Data 100 is offered in Summer Session C, from June 22 - August 14th. Starting on June 22, lecture will be held Monday through Thursday, from 9:30AM - 11:00AM, in Hearst Mining 390.
@@ -77,4 +79,4 @@ The official prerequisites will not be enforced in terms of enrollment. However,
 
 **Q. On the course enrollment, I noticed that students are unable to enroll in a lab/discussions section. For the enrollment process, will students mark the "TBA" option in order to enroll and once they are accepted into the course will they get to choose a lab/discussion section?**
 
-**A.** All students will enroll in a single lab/discussion section (the 'generic' 999 section), and at the beginning of the semester we will assign students to sections using some method.
+**A.** All students will enroll in a single lab/discussion section (the 'generic' 999 section), and at the beginning of the semester we will assign students to sections using some method. -->
