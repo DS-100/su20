@@ -15,38 +15,28 @@ Feel free to contact the instructors with any questions. But first, please read 
 
 <br>
 
-We **will** be offering this course online over the summer. More details, as they become available, will be posted here.
-
-<!-- ## Course Logistics -->
+## Course Logistics
 
 ---
-<!-- 
+
 **Q. Where and when is class?**
 
-**A.** Data 100 is offered in Summer Session C, from June 22 - August 14th. Starting on June 22, lecture will be held Monday through Thursday, from 9:30AM - 11:00AM, in Hearst Mining 390.
+**A.** Data 100 is offered in Summer Session C, from June 22 - August 14th. 
 
-In addition, there will be discussion sections on Mondays and Wednesdays, and lab sections on Tuesdays and Thursdays. For a full list of discussion and lab times, check the [official classes.berkeley.edu listing](https://classes.berkeley.edu/content/2020-summer-compsci-c100-001-lec-001).
+Data 100 will be taught entirely online this summer, as campus has moved to online instruction for Summer Sessions. Lectures and discussion sections will be pre-recorded and posted online, and in-person instruction time will be replaced with conceptual office hours and lecture recap.
 
----
-
-**Q. Will attendance be required?**
-
-**A.** No.
+That is, from Monday through Thursday from 9:30-11AM, there will be conceptual office hours on Zoom. (These will be in addition to other office hours, primarily for assignment help.)
 
 
 ---
 
 **Q. How many exams will there be? When will they be? Will there be alternates offered?**
 
-**A.** There will be 2 midterm exams, currently scheduled for July 9th and July 27th in lecture. These dates and times are tenative, and very well could change. There will also be a final exam, tentatively scheduled for some time on August 13th.
+**A.** There will be 2 midterm exams, currently scheduled for July 9th and July 27th. These dates and times are tenative, and very well could change. There will also be a final exam, tentatively scheduled for some time on August 13th.
 
 We will offer alternate exams for anyone who shows proof of an unavoidable conflict (another exam, plane tickets), at the discretion of the instructors.
 
----
-
-**Q. Will there be webcasts/lecture videos?**
-
-**A.** No, Summer Sessions courses are unfortunately not recorded. For some lectures, the instructors may choose to record their lecture manually and post it, but you should not rely on this.
+The exact format of these exams is to be determined; it depends on what campus decides is acceptable in terms of remote proctoring.
 
 ---
 
@@ -79,4 +69,4 @@ The official prerequisites will not be enforced in terms of enrollment. However,
 
 **Q. On the course enrollment, I noticed that students are unable to enroll in a lab/discussions section. For the enrollment process, will students mark the "TBA" option in order to enroll and once they are accepted into the course will they get to choose a lab/discussion section?**
 
-**A.** All students will enroll in a single lab/discussion section (the 'generic' 999 section), and at the beginning of the semester we will assign students to sections using some method. -->
+**A.** We won't be assigning students to actual discussion or lab sections due to the online nature of the course. We will be using the time that was allocated for labs and discussions as office hours. 
