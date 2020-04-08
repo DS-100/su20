@@ -34,7 +34,7 @@ That is, from Monday through Thursday from 9:30-11AM, there will be conceptual o
 
 **A.** There will be 2 midterm exams, currently scheduled for July 9th and July 27th. These dates and times are tenative, and very well could change. There will also be a final exam, tentatively scheduled for some time on August 13th.
 
-We will offer alternate exams for anyone who shows proof of an unavoidable conflict (another exam, plane tickets), at the discretion of the instructors.
+We will offer alternate exams for anyone who shows proof of an unavoidable conflict (another exam, plane tickets) at the discretion of the instructors, as well as for students in time zones vastly different than Pacific Daylight Time.
 
 The exact format of these exams is to be determined; it depends on what campus decides is acceptable in terms of remote proctoring.
 
