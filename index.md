@@ -64,6 +64,12 @@ The exact format of these exams is to be determined; it depends on what campus d
 
 The official prerequisites will not be enforced in terms of enrollment. However, we expect knowledge from the official prerequisites for the course itself.
 
+---
+
+**Q. I'm on the waitlist – will I get in?**
+
+**A.** Most likely, yes. Bearing any restrictions from the department, we're willing to expand to accommodate all students. 
+
 
 ---
 
