@@ -68,7 +68,7 @@ The official prerequisites will not be enforced in terms of enrollment. However,
 
 **Q. I'm on the waitlist – will I get in?**
 
-**A.** Most likely, yes. Bearing any restrictions from the department, we're willing to expand to accommodate all students. 
+**A.** Most likely, yes. Barring any restrictions from the department, we're willing to expand to accommodate all students. 
 
 
 ---
