@@ -1,17 +1,28 @@
 ---
 layout: page
-title: Syllabus
+title: Home
 nav_order: 1
 description: A week-to-week description of the content covered in the course.
 ---
 
-# Syllabus
+# Principles and Techniques of Data Science
+{: .mb-2 }
+UC Berkeley, Summer 2020
+{: .mb-0 .fs-6 .text-grey-dk-000 }
 
-<!-- Coming soon -->
+<div>
 
+{% assign instructors = site.staffers | where: 'role', 'Instructor' %}
+<div class="role">
+  {% for staffer in instructors %}
+  {{ staffer }}
+  {% endfor %}
 
-**Please note:** This schedule is still tentative, and is likely to change. See the <a href="{{ site.baseurl }}/calendar">calendar</a> to see the scheduling of our weekly events (discussion, lab, office hours, etc).
+</div>
 
+This schedule is still tentative, and is likely to change. See the <a href="{{ site.baseurl }}/calendar">calendar</a> to see the scheduling of our weekly events (discussion, lab, office hours, etc).
+
+<br><br>
 
 {% for module in site.modules %}
 {{ module }}

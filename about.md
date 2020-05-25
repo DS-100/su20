@@ -1,38 +1,31 @@
 ---
 layout: about
 title: About
-nav_order: 0
+nav_order: 2
 description: >-
     Principles and Techniques of Data Science
 ---
 
-# Principles and Techniques of Data Science
+# About Data 100
 {: .mb-2 }
-Data 100, Summer 2020
+<!-- Data 100, Summer 2020
 {: .mb-0 .fs-6 .text-grey-dk-000 }
 
 {% assign instructors = site.staffers | where: 'role', 'Instructor' %}
 <div class="role">
   {% for staffer in instructors %}
   {{ staffer }}
-  {% endfor %}
-</div>
+  {% endfor %} -->
+<!-- </div>
 
 {% if site.announcements %}
 {{ site.announcements.last }}
-<!-- <a href="{{ site.baseurl }}/announcements" class="btn btn-outline fs-3">
+<a href="{{ site.baseurl }}/announcements" class="btn btn-outline fs-3">
   All Announcements
-</a> -->
-{% endif %}
+</a>
+{% endif %} -->
 
-## Important Information
-
-- When: Monday, Tuesday, Wednesday, and Thursday; 9:30am-11:00am
-- Where: Online
-- What: See the [syllabus](syllabus)
-- News: We will post updates about the class on [Piazza](http://piazza.com/berkeley/summer2020/data100).
-
-This class is listed as CS C100
+More details about how the course will be run this summer will be posted on this site soon. Stay tuned!
 
 ## Q&A
 
@@ -79,16 +72,14 @@ The official prerequisites will not be enforced in terms of enrollment. However,
 
 ---
 
-**Q. I'm on the waitlist – will I get in?**
-
-**A.** Most likely, yes. Barring any restrictions from the department, we're willing to expand to accommodate all students. 
-
----
 
 **Q. On the course enrollment, I noticed that students are unable to enroll in a lab/discussions section. For the enrollment process, will students mark the "TBA" option in order to enroll and once they are accepted into the course will they get to choose a lab/discussion section?**
 
 **A.** We won't be assigning students to actual discussion or lab sections due to the online nature of the course. We will be using the time that was allocated for labs and discussions as office hours. 
 
+---
+
+<br>
 
 ## Goals
 
