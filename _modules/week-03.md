@@ -2,19 +2,30 @@
 title: Week 3
 weekNumber: 3
 days:
-  - date: 2020-02-03
+  - date: 2020-07-06
     events:
-      "**Homework**{: .label .label-hw } [Homework 3](http://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/sp20&subPath=hw/hw3/) (due Feb. 10)":
-  - date: 2020-02-04
+      "**Lecture**{: .label .label-lecture } 9. Visualization I":
+    assigns:
+      "**Homework 3**{: .label .label-hw } Bike Sharing":
+      "**Discussion 5**{: .label .label-disc } Regex":
+  - date: 2020-07-07
     events:
-      "**Lecture**{: .label .label } [Pandas](https://drive.google.com/file/d/1yO6xC4jLClF07ndDaoxhZe3kS-8YpROK/view?usp=sharing) ([webcast](https://www.youtube.com/watch?v=m7d0gTdd8s0)) ([code](http://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/sp20&subPath=lecture/lec05/))":
-        "[Ch. 3](https://www.textbook.ds100.org/ch/03/pandas_intro.html)"
-      "**Lab**{: .label .label-lab } [Lab 2](http://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/sp20&subPath=lab/lab02/) (due Feb. 10)":
-  - date: 2020-02-06
+      "**Lecture**{: .label .label-lecture } 10. Visualization II":
+    assigns:
+      "**Lab 5**{: .label .label-lab } Visualization & KDE":
+      
+  - date: 2020-07-08
     events:
-      "**Lecture**{: .label .label } [Data Cleaning and EDA](https://drive.google.com/open?id=11Gk1dZwALgUiZYgOKGTAbDs_kfuqLx4M) ([webcast](https://www.youtube.com/watch?v=6MpCZKK034I)) ([code](http://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/sp20&subPath=lecture/lec06/))":
-        "[Ch. 4](https://www.textbook.ds100.org/ch/04/eda_intro.html), [Ch. 5](https://www.textbook.ds100.org/ch/05/cleaning_structure.html)"
-  - date: 2019-02-07
+      "**Lecture**{: .label .label-lecture } 11. Modeling":
+    assigns:
+      "**Discussion 6**{: .label .label-disc } Visualizations and Transformations":
+      "**Homework 4**{: .label .label-hw } Trump":
+  - date: 2020-07-09
     events:
-      "**Discussion**{: .label .label-disc } [Discussion 3](../resources/assets/discussions/disc03.pdf) ([notebook](http://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/sp20&subPath=discussion/disc03/)) ([solutions](../resources/assets/discussions/disc03_sol.pdf))":
+      "**Exam**{: .label .label-exam } Midterm I":
+    assigns:
+      "**Lab 6**{: .label .label-lab } Modeling and Loss functions":
 ---
+
+
+<script src="../assets/js/highlight.js"></script>

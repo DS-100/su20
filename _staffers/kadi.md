@@ -1,6 +1,6 @@
 ---
-name: Kevin Yang
+name: Justin Kadi
 role: Tutor
-email: kevinyang8@berkeley.edu
+email: jeakadi@berkeley.edu
 photo: http://ds100.org/sp20/resources/assets/staff_pics/blank.png
 ---

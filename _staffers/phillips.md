@@ -3,8 +3,8 @@ name: Sophie Phillips
 role: Teaching Assistant
 email: rain@berkeley.edu
 photo: http://ds100.org/sp20/resources/assets/staff_pics/Sophie_Phillips.jpg
-discussion: F 4-5PM, Dwinelle 109
-lab: T 7-8PM, Evans 458
+discussion: Coming Soon
+lab: Coming Soon
 oh: Coming Soon
 ---
 

@@ -7,6 +7,9 @@
     {% for event in day.events %}
     <dd class="module-event{% if forloop.first %} main{% endif %}">{{ event | first | markdownify }} {{ event | last | markdownify }}</dd>
     {% endfor %}
+    {% for assign in day.assigns %}
+    <dd class="module-event{% if forloop.first %} main{% endif %}">{{ assign | first | markdownify }} {{ assign | last | markdownify }}</dd>
+    {% endfor %}
     {% endfor %}
   </dl>
   {% endif %}

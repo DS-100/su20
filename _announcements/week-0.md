@@ -1,5 +1,5 @@
 ---
-title: Week 0 Announcements
+title: Announcements
 ---
 
-Welcome to Data 100! We're still getting this site set up. **Some information here may be inaccurate. We will remove this warning once the site is complete.**
+We will not be updating this page with announcements. For the latest announcements, make sure to check our [Piazza](http://piazza.com/berkeley/spring2020/data100).

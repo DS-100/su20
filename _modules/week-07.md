@@ -2,15 +2,27 @@
 title: Week 7
 weekNumber: 7
 days:
-  - date: 2020-03-03
+  - date: 2020-08-03
     events:
-      "**Lecture**{: .label .label } Feature Engineering II":
-        "[Ch. 14](https://www.textbook.ds100.org/ch/14/feature_engineering.html)"
-      "**Lab**{: .label .label-lab } Lab 6":
-  - date: 2020-03-05
+      "**Lecture**{: .label .label-lecture } 23. PCA":
+    assigns:
+      "**Discussion 13**{: .label .label-disc } PCA":
+  - date: 2020-08-04
     events:
-      "**Lecture**{: .label .label } Midterm Review":
-  - date: 2019-03-06
+      "**Lecture**{: .label .label-lecture } 24. Clustering":
+    assigns:
+      "**Lab 13**{: .label .label-lab } Clustering":
+      
+  - date: 2020-08-05
     events:
-      "**Discussion**{: .label .label-disc } Discussion 7":
+      "**Lecture**{: .label .label-lecture } 25. Guest Lecture":
+    assigns:
+      "**Discussion 14**{: .label .label-disc } Clustering":
+      "**Homework 8**{: .label .label-hw } PCA":
+  - date: 2020-08-06
+    events:
+      "**Lecture**{: .label .label-lecture } 26. Conclusion":
 ---
+
+
+<script src="../assets/js/highlight.js"></script>
