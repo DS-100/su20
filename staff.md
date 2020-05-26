@@ -9,7 +9,7 @@ description: A listing of all the course staff members.
 
 Jump to [Instructors](#inst), [Teaching Assistants](#tas), or [Tutors](#tutors)
 
-**Note:** Consult the [calendar](http://ds100.org/sp20/calendar) for the most up-to-date office hours for each GSI.
+**Note:** Consult the [calendar](http://ds100.org/su20/calendar) for the most up-to-date office hours for each GSI.
 
 <a name = 'inst'></a>
 
@@ -27,7 +27,7 @@ Jump to [Instructors](#inst), [Teaching Assistants](#tas), or [Tutors](#tutors)
 ## Teaching Assistants
 
 <div class="role">
-  {% assign teaching_assistants = site.staffers | where: 'role', 'Head Teaching Assistant' %}
+  {% assign teaching_assistants = site.staffers | where: 'role', 'Teaching Assistant' %}
   {% for staffer in teaching_assistants %}
   {{ staffer }}
   {% endfor %}
@@ -38,7 +38,7 @@ Jump to [Instructors](#inst), [Teaching Assistants](#tas), or [Tutors](#tutors)
 ## Tutors
 
 <div class="role">
-  {% assign readers = site.staffers | where: 'role', 'NULLTutor' %}
+  {% assign readers = site.staffers | where: 'role', 'Tutor' %}
   {% for staffer in readers %}
   {{ staffer }}
   {% endfor %}

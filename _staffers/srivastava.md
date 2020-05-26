@@ -1,10 +1,8 @@
 ---
 name: Ishaan Srivastava
-role: Head Teaching Assistant
+role: Teaching Assistant
 email: ishaan.srivastava@berkeley.edu
-photo: http://ds100.org/sp20/resources/assets/staff_pics/Ishaan_Srivastava.jpg
-discussion: N/A
-lab: N/A
+photo: http://ds100.org/su20/resources/assets/staff_pics/Ishaan_Srivastava.jpg
 oh: N/A
 ---
 

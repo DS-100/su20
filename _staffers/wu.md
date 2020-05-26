@@ -2,8 +2,8 @@
 name: Jessica Wu
 role: Teaching Assistant
 email: jwu19@berkeley.edu
-photo: http://ds100.org/sp20/resources/assets/staff_pics/blank.png
-discussion: N/A
-lab: N/A
+photo: http://ds100.org/su20/resources/assets/staff_pics/Jessica_Wu.jpg
 oh: N/A
 ---
+
+pixelthoughts.co/#

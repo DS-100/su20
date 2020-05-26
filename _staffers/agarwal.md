@@ -1,11 +1,9 @@
 ---
 name: Kunal Agarwal
-role: Head Teaching Assistant
+role: Teaching Assistant
 email: kagarwal2@berkeley.edu
 website: http://www.kunal-agarwal.com
-photo: http://ds100.org/sp20/resources/assets/staff_pics/Kunal_Agarwal.jpg
-discussion: N/A
-lab: N/A
+photo: http://ds100.org/su20/resources/assets/staff_pics/Kunal_Agarwal.jpg
 oh: N/A
 ---
 
