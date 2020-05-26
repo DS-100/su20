@@ -2,7 +2,7 @@
 name: Henry Maier
 role: Teaching Assistant
 email: henrymaier@berkeley.edu
-photo: http://ds100.org/su20/resources/assets/staff_pics/Henry_Maier.jpg
+photo: http://ds100.org/su20/resources/assets/staff_pics/Henry_Maier.jpeg
 oh: N/A
 ---
 
