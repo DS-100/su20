@@ -2,7 +2,7 @@
 name: John Tsortos
 role: Teaching Assistant
 email: johntsor@berkeley.edu
-website: mesbahlab.com
+website: http://www.mesbahlab.com
 photo: http://ds100.org/su20/resources/assets/staff_pics/John_Tsortos.jpg
 oh: N/A
 ---
