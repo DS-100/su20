@@ -2,7 +2,7 @@
 name: Kevin Moy
 role: Teaching Assistant
 email: kevinmoy@berkeley.edu
-website: http://www.kmoy1.github.io
+website: http://kmoy1.github.io
 photo: http://ds100.org/su20/resources/assets/staff_pics/Kevin_Moy.jpg
 oh: N/A
 ---
