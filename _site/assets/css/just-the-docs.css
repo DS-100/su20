@@ -158,12 +158,13 @@ td, th { padding: 0; }
 .module-days .module-day { grid-column-start: 1; }
 .module-days .module-event { grid-column-start: 2; }
 .module-days .module-event + .module-event { padding-top: 0; }
-.module-days .module-event .label-lab { background-color: #00A6A6; }
+.module-days .module-event .label-lecture { background-color: #779ECC; }
+.module-days .module-event .label-lab { background-color: #F2C76E; }
 .module-days .module-event .label-vit { background-color: #c1443c; }
-.module-days .module-event .label-disc { background-color: #e38505; }
-.module-days .module-event .label-hw { background-color: #0D5C63; }
-.module-days .module-event .label-proj { background-color: #595959; }
-.module-days .module-event .label-exam { background-color: #99c24d; }
+.module-days .module-event .label-disc { background-color: #7A77B9; }
+.module-days .module-event .label-hw { background-color: #E94C4B; }
+.module-days .module-event .label-proj { background-color: #FF8144; }
+.module-days .module-event .label-exam { background-color: #000000; }
 
 .schedule { box-shadow: 0 1px 3px rgba(0, 0, 0, 0.07), 0 4px 14px rgba(0, 0, 0, 0.05); margin-left: -1rem; margin-right: -1rem; margin-bottom: 1rem; overflow-x: scroll; position: relative; }
 @media (min-width: 46.25rem) { .schedule { border-radius: 4px; margin-left: 0; margin-right: 0; } }
