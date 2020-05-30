@@ -231,7 +231,7 @@ hr { height: 1px; padding: 0; margin: 2rem 0; background-color: #eeebee; border:
 
 @media (min-width: 46.25rem) { .page-wrap { position: absolute; top: 0; left: 0; display: flex; width: 100%; height: 100%; overflow-x: hidden; overflow-y: hidden; } }
 
-.side-bar { z-index: 100; display: flex; flex-wrap: wrap; padding-top: 1rem; padding-bottom: 1rem; background-color: #fff; }
+.side-bar { z-index: 100; display: flex; flex-wrap: wrap; padding-top: 1rem; padding-bottom: 1rem; background-color: #f5f6fa; }
 @media (min-width: 46.25rem) { .side-bar { flex-wrap: nowrap; position: absolute; width: 232px; height: 100%; padding-top: 4rem; padding-bottom: 0; flex-direction: column; border-right: 1px solid #eeebee; align-items: flex-end; } }
 @media (min-width: 70rem) { .side-bar { width: calc((100% - 1116px) / 2 + 216px); min-width: 216px; } }
 
@@ -244,7 +244,7 @@ hr { height: 1px; padding: 0; margin: 2rem 0; background-color: #eeebee; border:
 
 .js-main-content:focus { outline: none; }
 
-.page-header { background-color: #fff; }
+.page-header { background-color: #f5f6fa; }
 @media (min-width: 46.25rem) { .page-header { background-color: #fff; } }
 .page-header .main-content { padding-top: 0; }
 @media (min-width: 46.25rem) { .page-header .main-content { display: flex; justify-content: flex-end; height: 60px; padding-top: 1rem; padding-bottom: 1rem; border-bottom: 1px solid #eeebee; } }
@@ -259,7 +259,7 @@ body { position: relative; padding-bottom: 4rem; }
 @media (min-width: 46.25rem) { body { position: static; padding-bottom: 0; } }
 
 .site-footer { position: absolute; bottom: 0; padding-top: 1rem; padding-bottom: 1rem; }
-@media (min-width: 46.25rem) { .site-footer { position: static; align-self: flex-end; justify-self: end; background-color: #fff; } }
+@media (min-width: 46.25rem) { .site-footer { position: static; align-self: flex-end; justify-self: end; background-color: #f5f6fa; } }
 
 .page-content a { overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
 .page-content ul, .page-content ol { padding-left: 1.5em; }
@@ -284,7 +284,7 @@ body { position: relative; padding-bottom: 4rem; }
 .page-content dt::after { content: ":"; }
 .page-content dd { margin-left: 1em; font-weight: 500; }
 
-.site-title { display: block; flex: 1 1 auto; color: #27262b; background-color: #fff; }
+.site-title { display: block; flex: 1 1 auto; color: #27262b; background-color: #f5f6fa; }
 @media (min-width: 46.25rem) { .site-title { position: absolute; top: 0; right: 0; z-index: 101; height: 60px; padding-top: 1rem; border-bottom: 1px solid #eeebee; } }
 
 .navigation-list { padding: 0; margin-top: 1rem; margin-bottom: 0; list-style: none; }

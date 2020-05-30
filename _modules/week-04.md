@@ -5,24 +5,20 @@ days:
   - date: 2020-07-13
     events:
       "**Lecture**{: .label .label-lecture } 12. Simple Linear Regression":
-    assigns:
       "**Discussion 7**{: .label .label-disc } Correlation":
   - date: 2020-07-14
     events:
       "**Lecture**{: .label .label-lecture } 13. Linear Regression & Geometric Interpretation":
-    assigns:
       "**Lab 7**{: .label .label-lab } Regression":
       
   - date: 2020-07-15
     events:
       "**Lecture**{: .label .label-lecture } 14. Feature Engineering":
-    assigns:
       "**Discussion 8**{: .label .label-disc } Geometric Least Squares & One Hot Encoding":
       "**Homework 5**{: .label .label-hw } Regression":
   - date: 2020-07-16
     events:
       "**Lecture**{: .label .label-lecture } 15. Bias-Variance Tradeoff":
-    assigns:
       "**Lab 8**{: .label .label-lab } Feature Engineering":
 ---
 

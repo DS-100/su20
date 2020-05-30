@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Policies
-nav_order: 3
+nav_exclude: true
 description: >-
     Course policies and information.
 ---
@@ -21,15 +21,27 @@ description: >-
 
 ## Grading
 
+| Category | Weight | Details |
+| --- | --- | --- |
+| Homeworks | 28% | 4% each (8, with 1 drop) |
+| Labs | 10% | 1% each (14, with 4 drops) |
+| Surveys | 2% | 0.5% each (8, with 0 drops) |
+| Projects | 12% | 6% each (2, with 0 drops) | 
+| Midterm 1 | 12% |  |
+| Midterm 2 | 12% | |
+| Final | 24% | two days, 12% each day |
+
+
+<!-- 
 
 | **Grading Scheme** |
 | -- |
-| 28% Homeworks <br> 10% Labs <br> 2% Surveys <br>12% Projects <br> 12% Midterm 1 <br> 12% Midterm 2 <br> 24% Final |
+| 28% Homeworks (4% each – 8, with 1 drop) <br>  10% Labs (1% each – 14, with 4 drops) <br> 2% Surveys (0.5% each) <br>12% Projects (6% each) <br> 12% Midterm 1 <br> 12% Midterm 2 <br> 24% Final | -->
 
-- **Homeworks:** Homeworks are usually assigned twice every week (see Projects below). They must be completed individually and will mix programming and short-answer questions. Your lowest homework score will be dropped. Homeworks have both visible and hidden autograder tests. The visible tests are mainly sanity checks, e.g. a probability is <= 1, and are visible to students while they do the assignment. The hidden tests generally check for correctness, and are invisible to students while they are doing the assignment.  
+- **Homeworks:** Homeworks are usually assigned twice every week (see Projects below). They must be completed individually and will mix programming and short-answer questions. Homeworks have both visible and hidden autograder tests. The visible tests are mainly sanity checks, e.g. a probability is <= 1, and are visible to students while they do the assignment. The hidden tests generally check for correctness, and are invisible to students while they are doing the assignment. Your lowest homework score will be dropped.
 - **Labs:** Labs are assignments that complement the homeworks. There will be two lab assignments every week. All lab autograder tests are visible. Your four lowest lab scores will be dropped. 
-- **Surveys:** Weekly check-ins to gauge and recieve student feedback.
-- **Projects:** Projects are week long assignments that synthesize multiple topics.
+- **Surveys:** Weekly check-ins to gauge and receive student feedback, via Google Forms.
+- **Projects:** Projects are week-long assignments that synthesize multiple topics.
 - **Midterms:** There will be two midterms. Midterm 1 will be on Thursday, July 9th. Midterm 2 will be on Monday, July 27th. See Piazza for more details.
 - **Final:** The final exam is required, and will be split into two days. The first part will be on Wednesday, August 12th. The second part will be on Thursday, August 13th.
 

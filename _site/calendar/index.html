@@ -8,7 +8,7 @@
     <title>Calendar - Data 100</title>
 
     
-    <meta name="Description" content="An embedded Google Calendar displaying the weekly event schedule.">
+    <meta name="Description" content="Calendars with times for all course events.">
     
   
 
@@ -31,13 +31,13 @@
 <meta property="og:title" content="Calendar" />
 <meta name="author" content="Suraj Rampure" />
 <meta property="og:locale" content="en_US" />
-<meta name="description" content="An embedded Google Calendar displaying the weekly event schedule." />
-<meta property="og:description" content="An embedded Google Calendar displaying the weekly event schedule." />
+<meta name="description" content="Calendars with times for all course events." />
+<meta property="og:description" content="Calendars with times for all course events." />
 <link rel="canonical" href="http://localhost:4000/su20/calendar/" />
 <meta property="og:url" content="http://localhost:4000/su20/calendar/" />
 <meta property="og:site_name" content="Data 100" />
 <script type="application/ld+json">
-{"description":"An embedded Google Calendar displaying the weekly event schedule.","@type":"WebPage","url":"http://localhost:4000/su20/calendar/","headline":"Calendar","author":{"@type":"Person","name":"Suraj Rampure"},"@context":"http://schema.org"}</script>
+{"description":"Calendars with times for all course events.","@type":"WebPage","url":"http://localhost:4000/su20/calendar/","headline":"Calendar","author":{"@type":"Person","name":"Suraj Rampure"},"@context":"http://schema.org"}</script>
 <!-- End Jekyll SEO tag -->
 
 </head>
@@ -74,7 +74,7 @@
         
           <li class="navigation-list-item">
             
-            <a href="http://localhost:4000/su20/about/" class="navigation-list-link">About</a>
+            <a href="http://localhost:4000/su20/syllabus/" class="navigation-list-link">Syllabus</a>
             
           </li>
         
@@ -94,20 +94,12 @@
         
           <li class="navigation-list-item">
             
-            <a href="http://localhost:4000/su20/policies/" class="navigation-list-link">Policies</a>
+            <a href="http://localhost:4000/su20/resources/" class="navigation-list-link">Resources</a>
             
           </li>
         
       
     
-      
-        
-          <li class="navigation-list-item">
-            
-            <a href="http://localhost:4000/su20/resources/" class="navigation-list-link">Resources</a>
-            
-          </li>
-        
       
     
       
@@ -120,15 +112,13 @@
         
       
     
-      
-    
   </ul>
 </nav>
 
         
         <nav role="navigation" aria-label="Secondary navigation">
           
-          <h2 class="navigation-header">Other</h2>
+          <h2 class="navigation-header">Links</h2>
           <ul class="navigation-list">
             
             <li class="navigation-list-item">
@@ -145,10 +135,6 @@
             
             <li class="navigation-list-item">
               <a href="https://piazza.com/berkeley/summer2020/data100" class="navigation-list-link" target="_blank">Piazza</a>
-            </li>
-            
-            <li class="navigation-list-item">
-              <a href="https://okpy.org" class="navigation-list-link" target="_blank">Okpy</a>
             </li>
             
             <li class="navigation-list-item">
@@ -192,73 +178,42 @@
         <div id="main-content" class="page-content" role="main">
           <h1 id="calendar">Calendar</h1>
 
-<p>Jump to Calendars for <a href="#dll">Discussion, Lab, and Lecture</a> or <a href="#oh">Office Hours and Homework Parties</a>.</p>
+<p><span style="color:red"><strong>This page is under construction. The times shown in the calendars below may change!</strong></span></p>
 
-<!-- <link rel="stylesheet" property="stylesheet" href="https://unpkg.com/@fullcalendar/core/main.css">
-<link rel="stylesheet" property="stylesheet" href="https://unpkg.com/@fullcalendar/timegrid/main.css"> -->
-<!-- <script src="https://unpkg.com/@fullcalendar/core/main.min.js"></script>
-<script src="https://unpkg.com/@fullcalendar/daygrid/main.min.js"></script>
-<script src="https://unpkg.com/@fullcalendar/timegrid/main.min.js"></script>
-<script src="https://unpkg.com/@fullcalendar/google-calendar/main.min.js"></script> -->
+<ul>
+  <li><a href="#ldlc">Live Lecture, Discussion, and Lab Calendar</a></li>
+  <li><a href="#ohc">Office Hours Calendar</a></li>
+</ul>
 
-<style>
-.fc table {
-  margin-bottom: 0;
-}
-</style>
+<p><a name="ldlc"></a></p>
 
-<!-- <script>
-document.addEventListener('DOMContentLoaded', function() {
-  new FullCalendar.Calendar(document.getElementById('fullcalendar'), {
-    plugins: ['dayGrid', 'timeGrid', 'googleCalendar'],
-    header: {
-      left: 'title',
-      right: 'today prev,next',
-    },
-    nowIndicator: true,
-    height: 'auto',
-    minTime: '09:00:00',
-    maxTime: '21:00:00',
-    allDaySlot: false,
-    slotEventOverlap: false,
-    defaultView: 'timeGridWeek',
-    // THIS KEY WON'T WORK IN PRODUCTION!!!
-    // To make your own Google API key, follow the directions here:
-    // http://fullcalendar.io/docs/google_calendar/
-    googleCalendarApiKey: 'AIzaSyDRIz3tmchcYjyh1o4VTLj1Y4ciIJDEyjg',
-    // US Holidays
-    eventSources: [
-      {
-        googleCalendarId: 'berkeley.edu_in9qvsg9rsv5r35la4oufrq2tk@group.calendar.google.com',
-        className: 'data 100',
-      },
-    ],
-  }).render();
-});
-</script>
+<h2 id="live-lecture-discussion-and-lab-calendar">Live Lecture, Discussion, and Lab Calendar</h2>
 
- 
-<script src="../assets/js/calendar.js"></script>
-<script src="../assets/js/gcal.js"></script> -->
-<p><a name="dll"></a>
-<span style="color:red"><strong>This page is under construction</strong></span></p>
+<p>This calendar contains times for</p>
+<ul>
+  <li>live lecture recap sessions (in <span style="color:Green"><strong>green</strong></span>)</li>
+  <li>live discussion sessions (in <span style="color:Red"><strong>red</strong></span>) and discussion recap sessions (in <span style="color:Orange"><strong>orange</strong></span>)</li>
+  <li>live lab sessions (in <span style="color:SkyBlue"><strong>blue</strong></span>)</li>
+  <li>other special events (in <span style="color:Gold"><strong>yellow</strong></span>)</li>
+</ul>
 
-<h2 id="discussion-lab-and-lecture">Discussion, Lab, and Lecture</h2>
+<p>To access these events, use <a href="#">this link (TBD)</a>.</p>
 
-<p>Discussion sections are in <span style="color:DodgerBlue"><strong>blue</strong></span>, labs are in <span style="color:MediumSeaGreen"><strong>green</strong></span>, and lectures are in <span style="color:Orange"><strong>yellow</strong></span>. Click a discussion / lab event to see the different GSIs teaching at that time.</p>
+<iframe src="https://calendar.google.com/calendar/b/1/embed?height=700&amp;wkst=1&amp;bgcolor=%23ffffff&amp;ctz=America%2FLos_Angeles&amp;src=YmVya2VsZXkuZWR1XzE2bjNwdGE3M3EzNWVrMnVhMWZlbGRsbGZvQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20&amp;src=YmVya2VsZXkuZWR1XzE0ZGYwbTJqZzkycDdiODdxYmhpMGplczA4QGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20&amp;src=YmVya2VsZXkuZWR1X2FldWRuOWdvcWE3aGR0bTA4M2J1ZnFxbWpnQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20&amp;src=YmVya2VsZXkuZWR1XzNvcDIxbTBicXJqYTI4MW8wM282aWlkYWVrQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20&amp;src=YmVya2VsZXkuZWR1X2o0NmNoN2FxcmF2aWMzcXZrODRtanBwanVzQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20&amp;color=%23F09300&amp;color=%23D50000&amp;color=%237986CB&amp;color=%230B8043&amp;color=%23F6BF26&amp;mode=WEEK&amp;showTitle=0&amp;showDate=1&amp;showPrint=1&amp;showTabs=1" style="border-width:0" width="800" height="700" frameborder="0" scrolling="no"></iframe>
 
-<!--<iframe src="https://calendar.google.com/calendar/embed?height=550&amp;wkst=1&amp;bgcolor=%23ffffff&amp;ctz=America%2FLos_Angeles&amp;mode=WEEK&amp;title=%20&amp;src=YmVya2VsZXkuZWR1XzFxOG1tNGxzaTRhdHZyYWlrdDZya2dsYzhnQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20&amp;src=YmVya2VsZXkuZWR1X2IyNDhyYmRsbHJ1cTY4ZjI2cWwyMTlyMTBjQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20&amp;src=YmVya2VsZXkuZWR1X29odmVpZG1qdWJuaTdnOWdoNmNvOGE2NGYwQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20&amp;color=%233366CC&amp;color=%23329262&amp;color=%239D7000" style="border-width:0" width="750" height="550" frameborder="0" scrolling="no"></iframe>-->
 <p><br /></p>
 
-<p><a name="oh"></a></p>
+<p><a name="ohc"></a></p>
 
-<h2 id="office-hours-and-homework-party">Office Hours and Homework Party</h2>
+<h2 id="office-hours-calendar">Office Hours Calendar</h2>
 
-<p><a name="loc"></a></p>
+<p>GSI and tutor office hours are in <span style="color:Gray"><strong>grey</strong></span>. You should come to these with questions about anything – labs, homeworks, projects, discussions, concepts, etc. To access GSI and tutor office hours, go to our <a href="http://oh.ds100.org">Office Hours Queue</a>. When it’s your turn, you will be given the Zoom link to join.</p>
 
-<p>GSI office hours are in <span style="color:DodgerBlue"><strong>blue</strong></span>,  Suraj and Allen’s office hours are in <span style="color:Violet"><strong>pink</strong></span>, and Homework Parties are in <span style="color:#28A85B"><strong>green</strong></span>.</p>
+<p>Suraj and Allen’s office hours are in <span style="color:Purple"><strong>purple</strong></span>. You should come to these with questions about concepts and logistics. To access instructor office hours, join the Zoom call listed in the corresponding calendar invite below.</p>
 
-<!--<iframe src="https://calendar.google.com/calendar/embed?height=550&amp;wkst=1&amp;bgcolor=%23ffffff&amp;ctz=America%2FLos_Angeles&amp;src=YmVya2VsZXkuZWR1X3JqaWdlMDA2M21qcWY0Y3Uxbm9nZTJ2YWFjQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20&amp;src=YmVya2VsZXkuZWR1XzlvZTRkcTUyMTY2YzhwaGJwMTZtaTZtdG5jQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20&amp;src=YmVya2VsZXkuZWR1X2t1MXZpYWFqZ2gxMTM3ZGY4bWU4ZDl0MnE0QGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20&amp;color=%230B8043&amp;color=%234285F4&amp;color=%23D81B60&amp;title=%20&amp;mode=WEEK" style="border-width:0" width="750" height="550" frameborder="0" scrolling="no"></iframe>-->
+<!--<iframe src="https://calendar.google.com/calendar/embed?height=550&amp;wkst=1&amp;bgcolor=%23ffffff&amp;ctz=America%2FLos_Angeles&amp;mode=WEEK&amp;title=%20&amp;src=YmVya2VsZXkuZWR1XzFxOG1tNGxzaTRhdHZyYWlrdDZya2dsYzhnQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20&amp;src=YmVya2VsZXkuZWR1X2IyNDhyYmRsbHJ1cTY4ZjI2cWwyMTlyMTBjQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20&amp;src=YmVya2VsZXkuZWR1X29odmVpZG1qdWJuaTdnOWdoNmNvOGE2NGYwQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20&amp;color=%233366CC&amp;color=%23329262&amp;color=%239D7000" style="border-width:0" width="750" height="550" frameborder="0" scrolling="no"></iframe>-->
+
+<iframe src="https://calendar.google.com/calendar/b/1/embed?height=700&amp;wkst=1&amp;bgcolor=%23ffffff&amp;ctz=America%2FLos_Angeles&amp;src=YmVya2VsZXkuZWR1XzNxZWNqdmsyOHFsb291MHN2b2JoMDNkbzY0QGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20&amp;src=YmVya2VsZXkuZWR1X3MwZmNvcG03Y3NwdDhvNG1zdTUxc3Y4dTdjQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20&amp;color=%233F51B5&amp;color=%23616161&amp;mode=WEEK&amp;showTitle=0" style="border-width:0" width="800" height="700" frameborder="0" scrolling="no"></iframe>
 
 
 

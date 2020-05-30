@@ -1,75 +1,44 @@
 ---
 layout: page
 title: Calendar
-nav_order: 2
-description: An embedded Google Calendar displaying the weekly event schedule.
+nav_order: 4
+description: Calendars with times for all course events.
 ---
 
 # Calendar
 
-Jump to Calendars for [Discussion, Lab, and Lecture](#dll) or [Office Hours and Homework Parties](#oh).
+<span style="color:red">**This page is under construction. The times shown in the calendars below may change!**</span>
 
-<!-- <link rel="stylesheet" property="stylesheet" href="https://unpkg.com/@fullcalendar/core/main.css">
-<link rel="stylesheet" property="stylesheet" href="https://unpkg.com/@fullcalendar/timegrid/main.css"> -->
-<!-- <script src="https://unpkg.com/@fullcalendar/core/main.min.js"></script>
-<script src="https://unpkg.com/@fullcalendar/daygrid/main.min.js"></script>
-<script src="https://unpkg.com/@fullcalendar/timegrid/main.min.js"></script>
-<script src="https://unpkg.com/@fullcalendar/google-calendar/main.min.js"></script> -->
 
-<style>
-.fc table {
-  margin-bottom: 0;
-}
-</style>
-<!-- <script>
-document.addEventListener('DOMContentLoaded', function() {
-  new FullCalendar.Calendar(document.getElementById('fullcalendar'), {
-    plugins: ['dayGrid', 'timeGrid', 'googleCalendar'],
-    header: {
-      left: 'title',
-      right: 'today prev,next',
-    },
-    nowIndicator: true,
-    height: 'auto',
-    minTime: '09:00:00',
-    maxTime: '21:00:00',
-    allDaySlot: false,
-    slotEventOverlap: false,
-    defaultView: 'timeGridWeek',
-    // THIS KEY WON'T WORK IN PRODUCTION!!!
-    // To make your own Google API key, follow the directions here:
-    // http://fullcalendar.io/docs/google_calendar/
-    googleCalendarApiKey: 'AIzaSyDRIz3tmchcYjyh1o4VTLj1Y4ciIJDEyjg',
-    // US Holidays
-    eventSources: [
-      {
-        googleCalendarId: 'berkeley.edu_in9qvsg9rsv5r35la4oufrq2tk@group.calendar.google.com',
-        className: 'data 100',
-      },
-    ],
-  }).render();
-});
-</script>
+- [Live Lecture, Discussion, and Lab Calendar](#ldlc)
+- [Office Hours Calendar](#ohc)
 
- 
-<script src="../assets/js/calendar.js"></script>
-<script src="../assets/js/gcal.js"></script> -->
-<a name = 'dll'></a>
-<span style="color:red">**This page is under construction**</span>
 
-## Discussion, Lab, and Lecture
+<a name='ldlc'></a>
 
-Discussion sections are in <span style="color:DodgerBlue">**blue**</span>, labs are in <span style="color:MediumSeaGreen">**green**</span>, and lectures are in <span style="color:Orange">**yellow**</span>. Click a discussion / lab event to see the different GSIs teaching at that time. 
+## Live Lecture, Discussion, and Lab Calendar
 
-<!--<iframe src="https://calendar.google.com/calendar/embed?height=550&amp;wkst=1&amp;bgcolor=%23ffffff&amp;ctz=America%2FLos_Angeles&amp;mode=WEEK&amp;title=%20&amp;src=YmVya2VsZXkuZWR1XzFxOG1tNGxzaTRhdHZyYWlrdDZya2dsYzhnQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20&amp;src=YmVya2VsZXkuZWR1X2IyNDhyYmRsbHJ1cTY4ZjI2cWwyMTlyMTBjQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20&amp;src=YmVya2VsZXkuZWR1X29odmVpZG1qdWJuaTdnOWdoNmNvOGE2NGYwQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20&amp;color=%233366CC&amp;color=%23329262&amp;color=%239D7000" style="border-width:0" width="750" height="550" frameborder="0" scrolling="no"></iframe>-->
+This calendar contains times for 
+- live lecture recap sessions (in <span style="color:Green">**green**</span>)
+- live discussion sessions (in <span style="color:Red">**red**</span>) and discussion recap sessions (in <span style="color:Orange">**orange**</span>)
+- live lab sessions (in <span style="color:SkyBlue">**blue**</span>)
+- other special events (in <span style="color:Gold">**yellow**</span>)
+
+To access these events, use [this link (TBD)](#).
+
+
+<iframe src="https://calendar.google.com/calendar/b/1/embed?height=700&amp;wkst=1&amp;bgcolor=%23ffffff&amp;ctz=America%2FLos_Angeles&amp;src=YmVya2VsZXkuZWR1XzE2bjNwdGE3M3EzNWVrMnVhMWZlbGRsbGZvQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20&amp;src=YmVya2VsZXkuZWR1XzE0ZGYwbTJqZzkycDdiODdxYmhpMGplczA4QGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20&amp;src=YmVya2VsZXkuZWR1X2FldWRuOWdvcWE3aGR0bTA4M2J1ZnFxbWpnQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20&amp;src=YmVya2VsZXkuZWR1XzNvcDIxbTBicXJqYTI4MW8wM282aWlkYWVrQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20&amp;src=YmVya2VsZXkuZWR1X2o0NmNoN2FxcmF2aWMzcXZrODRtanBwanVzQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20&amp;color=%23F09300&amp;color=%23D50000&amp;color=%237986CB&amp;color=%230B8043&amp;color=%23F6BF26&amp;mode=WEEK&amp;showTitle=0&amp;showDate=1&amp;showPrint=1&amp;showTabs=1" style="border-width:0" width="800" height="700" frameborder="0" scrolling="no"></iframe>
+
 <br>
 
-<a name = 'oh'></a>
+<a name='ohc'></a>
 
-## Office Hours and Homework Party
+## Office Hours Calendar
 
-<a name = 'loc'></a>
+GSI and tutor office hours are in <span style="color:Gray">**grey**</span>. You should come to these with questions about anything – labs, homeworks, projects, discussions, concepts, etc. To access GSI and tutor office hours, go to our [Office Hours Queue](http://oh.ds100.org). When it’s your turn, you will be given the Zoom link to join.
 
-GSI office hours are in <span style="color:DodgerBlue">**blue**</span>,  Suraj and Allen's office hours are in <span style="color:Violet">**pink**</span>, and Homework Parties are in <span style="color:#28A85B">**green**</span>.
+Suraj and Allen's office hours are in <span style="color:Purple">**purple**</span>. You should come to these with questions about concepts and logistics. To access instructor office hours, join the Zoom call listed in the corresponding calendar invite below.
 
-<!--<iframe src="https://calendar.google.com/calendar/embed?height=550&amp;wkst=1&amp;bgcolor=%23ffffff&amp;ctz=America%2FLos_Angeles&amp;src=YmVya2VsZXkuZWR1X3JqaWdlMDA2M21qcWY0Y3Uxbm9nZTJ2YWFjQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20&amp;src=YmVya2VsZXkuZWR1XzlvZTRkcTUyMTY2YzhwaGJwMTZtaTZtdG5jQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20&amp;src=YmVya2VsZXkuZWR1X2t1MXZpYWFqZ2gxMTM3ZGY4bWU4ZDl0MnE0QGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20&amp;color=%230B8043&amp;color=%234285F4&amp;color=%23D81B60&amp;title=%20&amp;mode=WEEK" style="border-width:0" width="750" height="550" frameborder="0" scrolling="no"></iframe>-->
+<!--<iframe src="https://calendar.google.com/calendar/embed?height=550&amp;wkst=1&amp;bgcolor=%23ffffff&amp;ctz=America%2FLos_Angeles&amp;mode=WEEK&amp;title=%20&amp;src=YmVya2VsZXkuZWR1XzFxOG1tNGxzaTRhdHZyYWlrdDZya2dsYzhnQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20&amp;src=YmVya2VsZXkuZWR1X2IyNDhyYmRsbHJ1cTY4ZjI2cWwyMTlyMTBjQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20&amp;src=YmVya2VsZXkuZWR1X29odmVpZG1qdWJuaTdnOWdoNmNvOGE2NGYwQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20&amp;color=%233366CC&amp;color=%23329262&amp;color=%239D7000" style="border-width:0" width="750" height="550" frameborder="0" scrolling="no"></iframe>-->
+
+<iframe src="https://calendar.google.com/calendar/b/1/embed?height=700&amp;wkst=1&amp;bgcolor=%23ffffff&amp;ctz=America%2FLos_Angeles&amp;src=YmVya2VsZXkuZWR1XzNxZWNqdmsyOHFsb291MHN2b2JoMDNkbzY0QGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20&amp;src=YmVya2VsZXkuZWR1X3MwZmNvcG03Y3NwdDhvNG1zdTUxc3Y4dTdjQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20&amp;color=%233F51B5&amp;color=%23616161&amp;mode=WEEK&amp;showTitle=0" style="border-width:0" width="800" height="700" frameborder="0" scrolling="no"></iframe>

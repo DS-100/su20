@@ -26,17 +26,15 @@ color_scheme: light
 search_enabled: true
 permalink: pretty
 nav_links:
-  Other:
-    Datahub:
-      - 'https://data100.datahub.berkeley.edu'
+  Links:
     Textbook:
       - 'http://textbook.ds100.org'
+    Datahub:
+      - 'https://data100.datahub.berkeley.edu'
     Gradescope:
       - 'https://www.gradescope.com/courses/_____'
     Piazza:
       - 'https://piazza.com/berkeley/summer2020/data100'
-    Okpy:
-      - 'https://okpy.org'
     Office Hours Queue:
       - 'http://oh.ds100.org'
 aux_links:
