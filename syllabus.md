@@ -139,7 +139,7 @@ Scores in the course are assigned according to the following weights:
 | --- | --- | --- |
 | Homeworks | 28% | 4% each (8, with 1 drop) |
 | Labs | 10% | 1% each (14, with 4 drops) |
-| Surveys | 2% | 0.5% each (8, with 0 drops) |
+| Surveys | 2% | 0.25% each (8, with 0 drops) |
 | Projects | 12% | 6% each (2, with 0 drops) |
 | Midterm 1 | 12% |  |
 | Midterm 2 | 12% | |
