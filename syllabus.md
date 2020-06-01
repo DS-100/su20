@@ -99,12 +99,12 @@ Labs are shorter programming assignments designed to give students familiarity w
 Discussion sections are meant to allow students a chance to discuss conceptual ideas and solve problems with other students, with the help of a GSI (this becomes slightly harder given the fact that this course is being offered completely remotely). Each discussion consists of a worksheet.
 
 - Each week, there are two discussion worksheets.
-  - The first discussion will come out on Sunday.
-  - The other will come out on Tuesday.
+  - The first discussion will come out on Monday morning.
+  - The other will come out on Wednesday morning.
 - There are two “pathways” we envision students taking when it comes to consuming discussion content.
   1. Watching a pre-recorded discussion video, and coming to a discussion recap OH.
-  - Each discussion worksheet will be accompanied with a GSI-created video walkthrough, released at the same time. Students should watch this video sometime within 24 hours of it being released.
-  - Then, students should come to the “discussion recap OH”, held on Monday for the first discussion and Wednesday for the second discussion (one each). The goal of these is to finish answering questions in the videos, and to serve as conceptual OH for those concepts.
+  - Each discussion worksheet will be accompanied with a GSI-created video walkthrough, released at the same time. Students should watch this video soon after it is released.
+  - Then, students should come to the “discussion recap OH”, held on Monday afternoon for the first discussion and Wednesday afternoon for the second discussion (one each). The goal of these is to finish answering questions in the videos, and to serve as conceptual OH for those concepts.
   2. Coming to a live Zoom discussion section.
   - There will be three live Zoom discussions on Monday (morning, afternoon, night) and three on Wednesday, for the first and second discussions of the week, respectively. GSIs will host these in pairs and take turns rotating through.
 - Each week, we will survey students on which of the two pathways they utilized and think is helpful, and will scale our resources accordingly.
