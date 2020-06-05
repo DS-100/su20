@@ -20,7 +20,7 @@ UC Berkeley, Summer 2020
 
 </div>
 
-This schedule is still tentative, and is likely to change. See the <a href="{{ site.baseurl }}/calendar">Calendar</a> to see the scheduling of our weekly events.
+See the <a href="{{ site.baseurl }}/calendar">Calendar</a> to see the scheduling of our weekly events. Also, see the <a href="{{ site.baseurl }}/syllabus">Syllabus</a> for a detailed explanation of how each course component will work this summer, given that the course is being taught entirely online. 
 
 <br><br>
 
