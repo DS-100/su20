@@ -9,8 +9,9 @@ days:
   - date: 2020-07-28
     events:
       "**Lecture 20**{: .label .label-lecture } Inference for Modeling":
+      "**Live Session 10**{: .label .label-live } Lecture Recap":
       "**Lab 11**{: .label .label-lab } Bootstrap the model parameters":
-      
+
   - date: 2020-07-29
     events:
       "**Lecture 21**{: .label .label-lecture } Decision Trees":
@@ -19,5 +20,6 @@ days:
   - date: 2020-07-30
     events:
       "**Lecture 22**{: .label .label-lecture } Dimensionality Reduction & PCA":
+      "**Live Session 11**{: .label .label-live } Lecture Recap":
       "**Lab 12**{: .label .label-lab } Decision Trees":
 ---

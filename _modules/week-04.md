@@ -9,8 +9,9 @@ days:
   - date: 2020-07-14
     events:
       "**Lecture 13**{: .label .label-lecture } Ordinary Least Squares":
+      "**Live Session 6**{: .label .label-live } Lecture Recap":
       "**Lab 7**{: .label .label-lab } Regression":
-      
+
   - date: 2020-07-15
     events:
       "**Lecture 14**{: .label .label-lecture } Feature Engineering":
@@ -19,5 +20,6 @@ days:
   - date: 2020-07-16
     events:
       "**Lecture 15**{: .label .label-lecture } Bias-Variance Tradeoff":
+      "**Live Session 7**{: .label .label-live } Lecture Recap":
       "**Lab 8**{: .label .label-lab } Feature Engineering":
 ---

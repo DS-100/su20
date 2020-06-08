@@ -5,13 +5,14 @@ days:
   - date: 2020-07-20
     events:
       "**Lecture 16**{: .label .label-lecture } Regularization & Cross-Validation":
-      "**Homework 6**{: .label .label-hw } Housing":
       "**Discussion 9**{: .label .label-disc } Bias Variance & Cross Validation":
+      "**Homework 6**{: .label .label-hw } Housing":
   - date: 2020-07-21
     events:
       "**Lecture 17**{: .label .label-lecture } Gradient Descent":
+      "**Live Session 8**{: .label .label-live } Lecture Recap":
       "**Lab 9**{: .label .label-lab } Cross Validation":
-      
+
   - date: 2020-07-22
     events:
       "**Lecture 18**{: .label .label-lecture } Logistic Regression I":
@@ -20,5 +21,6 @@ days:
   - date: 2020-07-23
     events:
       "**Lecture 19**{: .label .label-lecture } Logistic Regression II and Classification":
+      "**Live Session 9**{: .label .label-live } Lecture Recap":
       "**Lab 10**{: .label .label-lab } Logistic Regression":
 ---
