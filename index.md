@@ -20,7 +20,7 @@ UC Berkeley, Summer 2020
 
 </div>
 
-See the <a href="{{ site.baseurl }}/calendar">Calendar</a> to see the scheduling of our weekly events. Also, see the <a href="{{ site.baseurl }}/syllabus">Syllabus</a> for a detailed explanation of how each course component will work this summer, given that the course is being taught entirely online. 
+See the <a href="{{ site.baseurl }}/calendar">Calendar</a> to see the scheduling of our weekly events. Also, see the <a href="{{ site.baseurl }}/syllabus">Syllabus</a> for a detailed explanation of how each course component will work this summer, given that the course is being taught entirely online. All Zoom links for live events are posted on Piazza.
 
 <br><br>
 

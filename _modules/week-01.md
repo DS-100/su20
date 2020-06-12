@@ -4,7 +4,7 @@ weekNumber: 1
 days:
   - date: 2020-06-22
     events:
-      "**Lecture 1**{: .label .label-live } Course Overview (live, Monday 8-9PM)":
+      "**Lecture 1**{: .label .label-live } Course Overview (live, Monday 9:30-11AM)":
       "**Discussion 1**{: .label .label-disc } [Prerequisite Review](#) ([video](#)) ([solutions](#))":
       "**Homework 1**{: .label .label-hw } [Prerequisites](#) (due Jun. 24)":
   - date: 2020-06-23

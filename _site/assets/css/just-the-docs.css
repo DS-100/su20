@@ -165,6 +165,7 @@ td, th { padding: 0; }
 .module-days .module-event .label-hw { background-color: #E94C4B; }
 .module-days .module-event .label-proj { background-color: #FF8144; }
 .module-days .module-event .label-exam { background-color: #000000; }
+.module-days .module-event .label-live { background-color: #63c082; }
 
 .schedule { box-shadow: 0 1px 3px rgba(0, 0, 0, 0.07), 0 4px 14px rgba(0, 0, 0, 0.05); margin-left: -1rem; margin-right: -1rem; margin-bottom: 1rem; overflow-x: scroll; position: relative; }
 @media (min-width: 46.25rem) { .schedule { border-radius: 4px; margin-left: 0; margin-right: 0; } }

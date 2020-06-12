@@ -65,6 +65,7 @@ This summer, Data 100 will be run entirely online. This section details exactly 
   - Going over challenging problems (past exam problems, or more generally forcing students to push outside of what they’ve already learned).
   - Assignment recaps and previews (e.g. “in this next assignment, you’ll be doing _____”).
   - Other high-level overviews as deemed necessary.
+- Some special lectures will be live (such as the first lecture, last lecture, and any guest lectures). Specifics will be on Piazza.
 
 <br>
 
