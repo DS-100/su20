@@ -10,6 +10,8 @@ nav_exclude: true
 - [slides](https://docs.google.com/presentation/d/1pc5QMNnhtpIltb1Qozk03vMjbzBsbO-71Il1dkDD-0k/edit?usp=sharing)
 - [video playlist](https://www.youtube.com/playlist?list=PLQCcNQgUcDfqBH3iR8XJMfHS23zycn0_W)
 
+This is the first lecture of a brand-new format! Make sure to complete the Quick Check problems as you progress through the videos to confirm your understanding.
+
 <table>
 <colgroup>
 <col style="width: 25%" />
