@@ -153,7 +153,7 @@ td, th { padding: 0; }
 .module-days .module-day.main, .module-days .module-event.main { border-top: 1px solid #eeebee; }
 .module-days .module-day.main:first-of-type, .module-days .module-event.main:first-of-type { border-top: none; }
 .module-days .module-day p, .module-days .module-event p { display: inline-block; margin: 0; width: 100%; }
-@media (min-width: 31.25rem) { .module-days .module-day p, .module-days .module-event p { width: 62.5%; } }
+@media (min-width: 31.25rem) { .module-days .module-day p, .module-days .module-event p { width: 75%; } }
 .module-days .module-day p + p, .module-days .module-event p + p { width: auto; }
 .module-days .module-day { grid-column-start: 1; }
 .module-days .module-event { grid-column-start: 2; }

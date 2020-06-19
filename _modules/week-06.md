@@ -9,6 +9,7 @@ days:
   - date: 2020-07-28
     events:
       "**Lecture 20**{: .label .label-lecture } Inference for Modeling":
+        "[Ch. 18.1, 18.3](https://www.textbook.ds100.org/ch/18/hyp_intro.html)"
       "**Live Session 10**{: .label .label-live } Lecture Recap":
       "**Lab 11**{: .label .label-lab } Bootstrap the model parameters":
 

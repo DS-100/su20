@@ -5,22 +5,26 @@ days:
   - date: 2020-07-20
     events:
       "**Lecture 16**{: .label .label-lecture } Regularization & Cross-Validation":
+        "[Ch. 16](https://www.textbook.ds100.org/ch/16/reg_intro.html), [Ch. 15.3](https://www.textbook.ds100.org/ch/15/bias_cv.html)"
       "**Discussion 9**{: .label .label-disc } Bias Variance & Cross Validation":
       "**Homework 6**{: .label .label-hw } Housing":
   - date: 2020-07-21
     events:
       "**Lecture 17**{: .label .label-lecture } Gradient Descent":
+        "[Ch. 11](https://www.textbook.ds100.org/ch/11/gradient_descent.html)"
       "**Live Session 8**{: .label .label-live } Lecture Recap":
       "**Lab 9**{: .label .label-lab } Cross Validation":
 
   - date: 2020-07-22
     events:
       "**Lecture 18**{: .label .label-lecture } Logistic Regression I":
+        "[Ch. 17.1-17.3](https://www.textbook.ds100.org/ch/17/classification_prob.html)"
       "**Discussion 10**{: .label .label-disc } Gradient Descent & Logistic Regression":
       "**Homework 7**{: .label .label-hw } Gradient Descent & Logistic Regression":
   - date: 2020-07-23
     events:
       "**Lecture 19**{: .label .label-lecture } Logistic Regression II and Classification":
+        "[Ch. 17.4-17.7](https://www.textbook.ds100.org/ch/17/classification_log_reg.html)"
       "**Live Session 9**{: .label .label-live } Lecture Recap":
       "**Lab 10**{: .label .label-lab } Logistic Regression":
 ---

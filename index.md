@@ -24,6 +24,10 @@ See the <a href="{{ site.baseurl }}/calendar">Calendar</a> to see the scheduling
 
 <br><br>
 
+It should also be noted that the linked textbook readings are purely supplementary.
+
+<br><br>
+
 {% for module in site.modules %}
 {{ module }}
 {% endfor %}
