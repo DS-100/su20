@@ -23,6 +23,6 @@ days:
       "**Homework 4**{: .label .label-hw } Trump":
   - date: 2020-07-09
     events:
-      "**Exam**{: .label .label-exam } Midterm I":
+      "**Exam**{: .label .label-exam } Midterm 1 (7-8:30PM)":
       "**Lab 6**{: .label .label-lab } Modeling and Loss Functions":
 ---

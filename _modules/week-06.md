@@ -4,7 +4,7 @@ weekNumber: 6
 days:
   - date: 2020-07-27
     events:
-      "**Exam**{: .label .label-exam } Midterm II":
+      "**Exam**{: .label .label-exam } Midterm 2 (7-8:30PM)":
       "**Discussion 11**{: .label .label-disc } Cross Entropy Loss and Classification":
   - date: 2020-07-28
     events:
