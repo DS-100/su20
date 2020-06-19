@@ -123,8 +123,7 @@ Discussion sections are meant to allow students a chance to discuss conceptual i
 
 ### Exams
 
-There will be two midterm exams, and a final exam. Details about dates can be found in the policies section below. We are currently experimenting with various exam formats and will inform the class of them closer to the exam dates.
-
+There will be two midterm exams, and a final exam. Details about dates can be found in the policies section below.
 
 <br>
 
@@ -144,31 +143,49 @@ Scores in the course are assigned according to the following weights:
 | Midterm 2 | 12% | |
 | Final | 24% | two days, 12% each day |
 
+#### Assignments
 
 - **Homeworks:** Homeworks are usually assigned twice every week (see Projects below). They must be completed individually and will mix programming and short-answer questions. Homeworks have both visible and hidden autograder tests. The visible tests are mainly sanity checks, e.g. a probability is <= 1, and are visible to students while they do the assignment. The hidden tests generally check for correctness, and are invisible to students while they are doing the assignment. Your lowest homework score will be dropped.
 - **Labs:** Labs are assignments that complement the homeworks. There will be two lab assignments every week. All lab autograder tests are visible. Your four lowest lab scores will be dropped.
 - **Surveys:** Weekly check-ins to gauge and receive student feedback, via Google Forms.
 - **Projects:** Projects are week-long assignments that synthesize multiple topics.
-- **Midterms:** There will be two midterms. Midterm 1 will be on Thursday, July 9th. Midterm 2 will be on Monday, July 27th. Exams will be held synchronously, with alternate exams for those in timezones very far from PDT. See Piazza for more details.
-- **Final:** The final exam is required, and will be split into two days. The first part will be on Wednesday, August 12th. The second part will be on Thursday, August 13th.
+
+#### Exams
+
+- **Midterms:** There will be two midterms.
+  - Midterm 1: **Thursday, July 9th, 7-8:30PM PDT**.
+  - Midterm 2: **Monday, July 27th, 7-8:30PM PDT**.
+  - Alternate exams will only be given to students with a documented conflict, or to those who are in timezones where 7-8:30PM PDT is extremely inconvenient.
+- **Final:** We are currently planning on having a two-day final, held on **Wednesday, August 12th** and **Thursday, August 13th**, from **7-8:30PM PDT** on both days.
+  - Each day will consist of a separate 1.5 hour exam.
+  - We may switch to a more traditional one day, 3 hour exam on **Thursday, August 13th** from **6-9PM PDT**.
+  - We intend on using Zoom to proctor students during the final exam.
 
 <br>
 
 ### Late Policy
-All assignments are due at 11:59 pm on the due date specified on the syllabus. **Homeworks and labs will not be accepted late.** Projects are marked down by 10% per day, **up to two days**. After two days, project submissions will not be accepted.
+All assignments are due at 11:59 pm on the due date specified on the syllabus. Extensions are only provided to students with DSP accommodations, or in the case of exceptional circumstances.
+- **Homeworks and labs will not be accepted late.**
+  - Gradescope may allow you to make late submissions, but you will later be given
+  a 0.
+- Projects are marked down by 10% per day, **up to two days**. After two days, project submissions will not be accepted.
+  - Submission times are rounded up to the next day. That is, 2 minutes late = 1 day late.
 
 <br>
 
-### Exam Makeup Policy
-We will have alternate exams for people with academic conflicts. Alternate exams will tentatively be held on the same day as the regular exam. Details to be announced.
+### Collaboration Policy and Academic Dishonesty
 
-<br>
+#### Assignments
+Data science is a collaborative activity. While you may talk with others about the homework, we ask that you write your solutions individually in your own words. If you do discuss the assignments with others please include their names at the top of your notebook. Keep in mind that content from assignments will likely be covered on both the midterm and final.
 
-### Collaboration Policy
+If we suspect that you have submitted plagiarized work, we will call you in for a meeting. If we then determine that plagiarism has occurred, we reserve the right to give you a negative full score (-100%) or lower on the assignments in question, along with reporting your offense to the Center of Student Conduct.
 
-**Simply put, don't cheat.**
+Rather than copying someone else's work, ask for help. You are not alone in this course! The entire staff is here to help you succeed. If you invest the time to learn the material and complete the assignments, you won't need to copy any answers. (taken from [61A](https://cs61a.org/articles/about.html#academic-honesty))
 
-Data science is a collaborative activity. While you may talk with others about the homework, we ask that you write your solutions individually in your own words. If you do discuss the assignments with others please include their names at the top of your notebook. Keep in mind that content from assignments will likely be covered on both the midterm and final. We will be following the [EECS departmental policy on Academic Honesty](https://eecs.berkeley.edu/resources/students/academic-dishonesty), so be sure you are familiar with it.
+
+#### Exams
+
+Cheating on exams is a serious offense. We have methods of detecting cheating on exams – so don't do it! Students caught cheating on any exam will fail this course.  We will be following the [EECS departmental policy on Academic Honesty](https://eecs.berkeley.edu/resources/students/academic-dishonesty), so be sure you are familiar with it.
 
 <br>
 
