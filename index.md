@@ -20,11 +20,12 @@ UC Berkeley, Summer 2020
 
 </div>
 
-See the <a href="{{ site.baseurl }}/calendar">Calendar</a> to see the scheduling of our weekly events. Also, see the <a href="{{ site.baseurl }}/syllabus">Syllabus</a> for a detailed explanation of how each course component will work this summer, given that the course is being taught entirely online. All Zoom links for live events are posted on Piazza.
-
-<br><br>
-
-It should also be noted that the linked textbook readings are purely supplementary.
+<ul>
+<li>All announcements are on <a href="http://piazza.com/berkeley/summer2020/data100">Piazza</a>. Make sure you are enrolled and active there.</li>
+<li>The <a href="{{ site.baseurl }}/syllabus">Syllabus</a> contains a detailed explanation of how each course component will work this summer, given that the course is being taught entirely online.</li>
+<li>The scheduling of all weekly events is in the <a href="{{ site.baseurl }}/calendar">Calendar</a>.</li>
+<li><b>Zoom links for live events:</b> <a href="https://piazza.com/class/kbe580u9fbd2d5?cid=11">@11 on Piazza</a>.</li>
+</ul>
 
 <br><br>
 

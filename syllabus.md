@@ -68,6 +68,9 @@ This summer, Data 100 will be run entirely online. This section details exactly 
 - The instructors will also be hosting several conceptual office hours per week. See the Calendar for more details.
 - Some special lectures will be live (such as the first lecture, last lecture, and any guest lectures). Specifics will be on Piazza.
 
+Note: Alongside each lecture are textbook readings. Textbook readings are purely supplementary, and may contain material that is not in scope (and may also not be comprehensive).
+
+
 <br>
 
 ### Homeworks and Projects
