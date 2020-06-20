@@ -12,14 +12,16 @@ description: Past exams and other relevant material to aid you in the course.
 
 | Semester | Midterm 1 | Midterm 2  | Final |
 | -- | -- | -- | -- |
+| Spring 2020 | [Checkpoint](assets/exams/sp20/sp20checkpoint.pdf) [(Solutions)](assets/exams/sp20/sp20checkpointsol.pdf) | | N/A |
 | Fall 2019| [Exam](assets/exams/fa19/fa19midterm1.pdf) [(Solutions)](assets/exams/fa19/fa19midterm1sol.pdf) | [Exam](assets/exams/fa19/fa19midterm2.pdf) [(Solutions)](assets/exams/fa19/fa19midterm2sol.pdf) | [Exam](assets/exams/fa19/fa19final.pdf) [(Solutions)](assets/exams/fa19/fa19finalsol.pdf) |
 | Summer 2019| [Exam](assets/exams/su19/su19mt_blank.pdf) [(Solutions)](assets/exams/su19/su19mt_sol.pdf) [[Video]](https://www.youtube.com/watch?v=7UVjFuRTHMc)    |  | [Exam](assets/exams/su19/su19final_blank.pdf) [(Solutions)](assets/exams/su19/su19final_sol.pdf) |
 | Spring 2019| [Exam](assets/exams/sp19/data100_sp19_mt1.pdf) [(Solutions)](assets/exams/sp19/data100_sp19_mt1_sol.pdf) [[Video](https://youtu.be/F3tu9PZHhyU)]     | [Exam](assets/exams/sp19/data100_sp19_mt2.pdf) [(Solutions)](assets/exams/sp19/data100_sp19_mt2_sol.pdf) [[Video](https://youtu.be/-XCRQ6CKNb0)] | [Exam](assets/exams/sp19/data100_sp19_final.pdf) [(Solutions)](assets/exams/sp19/data100_sp19_final_sol.pdf)     |
 | Fall 2018  | [Exam](assets/exams/fa18/fa18midterm.pdf) [(Solutions)](assets/exams/fa18/fa18midtermsol.pdf)|  | [Exam](assets/exams/fa18/fa18final.pdf) [(Solutions)](assets/exams/fa18/fa18finalsol.pdf)|
 | Spring 2018| [Exam](assets/exams/sp18/sp18midterm.pdf) [(Solutions)](assets/exams/sp18/sp18midtermsol.pdf)|  | [Exam](assets/exams/sp18/sp18final.pdf) [(Solutions)](assets/exams/sp18/sp18finalsol.pdf) [[Video]](https://www.youtube.com/watch?v=5JU0Xe46DnA&list=PLQCcNQgUcDfrBO7dpL-Pv6e0LYGeqsHKr) |
 | Fall 2017  | [Exam](assets/exams/fa17/fa17midterm.pdf) [(Solutions)](assets/exams/fa17/fa17midtermsol.pdf) [[Video]](https://www.youtube.com/watch?v=uYS4ZBB0aZU&list=PLQCcNQgUcDfqAD1D9g9P9SUYo0tdXQpSY) |  | [Exam](assets/exams/fa17/fa17final.pdf) [(Solutions)](assets/exams/fa17/fa17finalsol.pdf)|
-| Fall 2017 Practice | [Exam](assets/exams/fa17/fa17practicemidterm.pdf) [(Solutions)](assets/exams/fa17/fa17practicemidtermsol.pdf)|  | [Exam](assets/exams/fa17/fa17practicefinal.pdf) [(Solutions)](assets/exams/fa17/fa17practicefinalsol.pdf)|
-| Spring 2017|      |  | [Exam](assets/exams/sp17/sp17final.pdf) [(Solutions)](assets/exams/sp17/sp17finalsol.pdf)|
+| Spring 2017|  [Exam](assets/exams/sp17/sp17midterm.pdf) [(Solutions)](assets/exams/sp17/sp17midtermsol.pdf)    |  | [Exam](assets/exams/sp17/sp17final.pdf) [(Solutions)](assets/exams/sp17/sp17finalsol.pdf)|
+
+[Spring 2020 Checkpoint Reference Sheet](assets/exams/sp20/sp20_checkpoint_reference_sheet.pdf)
 
 [Fall 2019 Midterm 1 Reference Sheet](assets/exams/fa19/fa19midterm1refsheet.pdf)
 
