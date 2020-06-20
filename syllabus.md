@@ -65,6 +65,7 @@ This summer, Data 100 will be run entirely online. This section details exactly 
   - Answering students’ questions.
   - Going over challenging problems (past exam problems, or more generally forcing students to push outside of what they’ve already learned).
   - Other high-level overviews as deemed necessary.
+- The instructors will also be hosting several conceptual office hours per week. See the Calendar for more details.
 - Some special lectures will be live (such as the first lecture, last lecture, and any guest lectures). Specifics will be on Piazza.
 
 <br>
