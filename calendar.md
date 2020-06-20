@@ -21,8 +21,7 @@ This calendar contains times for
 - live lab sessions (in <span style="color:SkyBlue">**blue**</span>)
 - other special events (in <span style="color:Gold">**yellow**</span>)
 
-To access these events, use the Zoom links posted on Piazza.
-
+To access these events, use the Zoom links posted in <b><a href="https://piazza.com/class/kbe580u9fbd2d5?cid=11">@11 on Piazza</a></b>.
 
 <iframe src="https://calendar.google.com/calendar/b/1/embed?height=700&amp;wkst=1&amp;bgcolor=%23ffffff&amp;ctz=America%2FLos_Angeles&amp;src=YmVya2VsZXkuZWR1XzE2bjNwdGE3M3EzNWVrMnVhMWZlbGRsbGZvQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20&amp;src=YmVya2VsZXkuZWR1XzE0ZGYwbTJqZzkycDdiODdxYmhpMGplczA4QGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20&amp;src=YmVya2VsZXkuZWR1X2FldWRuOWdvcWE3aGR0bTA4M2J1ZnFxbWpnQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20&amp;src=YmVya2VsZXkuZWR1XzNvcDIxbTBicXJqYTI4MW8wM282aWlkYWVrQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20&amp;src=YmVya2VsZXkuZWR1X2o0NmNoN2FxcmF2aWMzcXZrODRtanBwanVzQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20&amp;color=%23F09300&amp;color=%23D50000&amp;color=%237986CB&amp;color=%230B8043&amp;color=%23F6BF26&amp;mode=WEEK&amp;showTitle=0&amp;showDate=1&amp;showPrint=1&amp;showTabs=1" style="border-width:0" width="800" height="700" frameborder="0" scrolling="no"></iframe>
 
