@@ -56,14 +56,14 @@ This summer, Data 100 will be run entirely online. This section details exactly 
 ### Lecture
 
 - There are 4 lectures per week over the summer.
-- **Lectures will be entirely pre-recorded**, in a format that is optimized for online learning (short videos with "Quick Check" problems in between). Lecture videos will be released on the mornings of Monday, Tuesday, Wednesday, and Thursday (or the night before).
+- **Lectures will be entirely pre-recorded**, in a format that is optimized for online learning (short 5-10 minute videos with conceptual problems in between). Lecture videos will be released on the mornings of Monday, Tuesday, Wednesday, and Thursday (or the night before).
   - Some of these will be from previous semesters, and some will be recorded this summer by the instructors.
-  - Lecture videos will be posted on YouTube. Each “lecture” will be an html page linked on the course website, with multiple videos stacked together with in-line questions. Supplementary code will be provided.
+  - Lecture videos will be posted on YouTube. Each “lecture” will be an html page linked on the course website, containing videos and links to slides and code.
+  - There are "Quick Check" conceptual questions in between each lecture video, linked on the lecture webpage. These are meant for you to check your understanding of the concepts that were just introduced. These are not graded.
   - Each lecture will also have a Piazza thread for students to ask questions.
-- In order to facilitate some interaction, instructors will be holding **2 live "lecture recap sessions" per week**. They will be an hour long, hosted via Zoom on Tuesdays and Thursdays, from 6:30-7:30 PM (and will be recorded). Most notably, **we will not introduce new concepts in these recap sessions**; instead, they’ll consist of:
+- In order to facilitate some interaction, instructors will be holding **one live "lecture recap" per week**. It will be an hour long, hosted via Zoom on Fridays from 12-1PM (and will be recorded). Most notably, **we will not introduce new concepts in these recap sessions**; instead, they’ll consist of:
   - Answering students’ questions.
   - Going over challenging problems (past exam problems, or more generally forcing students to push outside of what they’ve already learned).
-  - Assignment recaps and previews (e.g. “in this next assignment, you’ll be doing _____”).
   - Other high-level overviews as deemed necessary.
 - Some special lectures will be live (such as the first lecture, last lecture, and any guest lectures). Specifics will be on Piazza.
 
@@ -117,7 +117,7 @@ Discussion sections are meant to allow students a chance to discuss conceptual i
 - OH will serve as a one-stop shop for students to get help with assignments.
   - Notably, they also serve as a replacement for traditional lab sessions.
 - Office Hours can be accessed via [oh.ds100.org](oh.ds100.org), where students add themselves to the "queue" and specify the assignment they need help on. Once it's their turn, they will be provided with a Zoom link to join, in order to get help from staff.
-- The instructors will also be hosting office hours that are more conceptual-oriented (and not meant for assignment help). These will be reflected on the [Calendar](../calendar).
+- The instructors will also be hosting conceptual office hours. These will be reflected on the [Calendar](../calendar).
 
 <br>
 

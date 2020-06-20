@@ -12,7 +12,6 @@ days:
     events:
       "**Lecture 17**{: .label .label-lecture } Gradient Descent":
         "[Ch. 11](https://www.textbook.ds100.org/ch/11/gradient_descent.html)"
-      "**Live Session 8**{: .label .label-live } Lecture Recap":
       "**Lab 9**{: .label .label-lab } Cross Validation":
 
   - date: 2020-07-22
@@ -25,6 +24,8 @@ days:
     events:
       "**Lecture 19**{: .label .label-lecture } Logistic Regression II and Classification":
         "[Ch. 17.4-17.7](https://www.textbook.ds100.org/ch/17/classification_log_reg.html)"
-      "**Live Session 9**{: .label .label-live } Lecture Recap":
       "**Lab 10**{: .label .label-lab } Logistic Regression":
+  - date: 2020-07-24
+    events:
+      "**Live Session 5**{: .label .label-live } Lecture Recap (12-1PM)":
 ---

@@ -11,7 +11,6 @@ days:
     events:
       "**Lecture 13**{: .label .label-lecture } Ordinary Least Squares":
         "[Ch. 13.4](https://www.textbook.ds100.org/ch/13/linear_projection.html)"
-      "**Live Session 6**{: .label .label-live } Lecture Recap":
       "**Lab 7**{: .label .label-lab } Regression":
 
   - date: 2020-07-15
@@ -24,6 +23,8 @@ days:
     events:
       "**Lecture 15**{: .label .label-lecture } Bias-Variance Tradeoff":
         "[Ch. 12.3](https://www.textbook.ds100.org/ch/12/prob_risk.html), [Ch. 15.1-15.2](https://www.textbook.ds100.org/ch/15/bias_risk.html)"
-      "**Live Session 7**{: .label .label-live } Lecture Recap":
       "**Lab 8**{: .label .label-lab } Feature Engineering":
+  - date: 2020-07-17
+    events:
+      "**Live Session 4**{: .label .label-live } Lecture Recap (12-1PM)":
 ---

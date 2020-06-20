@@ -12,7 +12,6 @@ days:
     events:
       "**Lecture 2**{: .label .label-lecture } Data Sampling and Probability":
         "[Ch. 2](https://www.textbook.ds100.org/ch/02/design_intro.html)"
-      "**Live Session 1**{: .label .label-live } Lecture Recap":
       "**Lab 1**{: .label .label-lab } Prerequisite Coding (due Jun. 23)":
 
   - date: 2020-06-24
@@ -25,6 +24,8 @@ days:
     events:
       "**Lecture 4**{: .label .label-lecture } SQL":
         "[Ch. 9](https://www.textbook.ds100.org/ch/09/sql_intro.html)"
-      "**Live Session 2**{: .label .label-live } Lecture Recap":
       "**Lab 2**{: .label .label-lab } SQL (due Jun. 25)":
+  - date: 2020-06-26
+    events:
+      "**Live Session 1**{: .label .label-live } Lecture Recap (12-1PM)":
 ---

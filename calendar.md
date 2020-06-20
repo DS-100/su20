@@ -7,9 +7,6 @@ description: Calendars with times for all course events.
 
 # Calendar
 
-<span style="color:red">**This page is under construction. The times shown in the calendars below may change!**</span>
-
-
 - [Live Lecture, Discussion, and Lab Calendar](#ldlc)
 - [Office Hours Calendar](#ohc)
 
@@ -37,7 +34,7 @@ To access these events, use the Zoom links posted on Piazza.
 
 GSI and tutor office hours are in <span style="color:Gray">**grey**</span>. You should come to these with questions about anything – labs, homeworks, projects, discussions, concepts, etc. To access GSI and tutor office hours, go to our [Office Hours Queue](http://oh.ds100.org). When it’s your turn, you will be given the Zoom link to join.
 
-Suraj and Allen's office hours are in <span style="color:Purple">**purple**</span>. You should come to these with questions about concepts and logistics. To access instructor office hours, use the Zoom links posted on Piazza.
+Suraj and Allen's office hours are in <span style="color:Blue">**blue**</span>. You should come to these with questions about concepts and logistics. To access instructor office hours, use the Zoom links posted on Piazza.
 
 <!--<iframe src="https://calendar.google.com/calendar/embed?height=550&amp;wkst=1&amp;bgcolor=%23ffffff&amp;ctz=America%2FLos_Angeles&amp;mode=WEEK&amp;title=%20&amp;src=YmVya2VsZXkuZWR1XzFxOG1tNGxzaTRhdHZyYWlrdDZya2dsYzhnQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20&amp;src=YmVya2VsZXkuZWR1X2IyNDhyYmRsbHJ1cTY4ZjI2cWwyMTlyMTBjQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20&amp;src=YmVya2VsZXkuZWR1X29odmVpZG1qdWJuaTdnOWdoNmNvOGE2NGYwQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20&amp;color=%233366CC&amp;color=%23329262&amp;color=%239D7000" style="border-width:0" width="750" height="550" frameborder="0" scrolling="no"></iframe>-->
 

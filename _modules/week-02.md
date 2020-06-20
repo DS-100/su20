@@ -12,7 +12,6 @@ days:
     events:
       "**Lecture 6**{: .label .label-lecture } Pandas II":
         "[Ch. 3](https://www.textbook.ds100.org/ch/03/pandas_intro.html)"
-      "**Live Session 3**{: .label .label-live } Lecture Recap":
       "**Lab 3**{: .label .label-lab } Pandas I":
 
   - date: 2020-07-01
@@ -24,6 +23,10 @@ days:
     events:
       "**Lecture 8**{: .label .label-lecture } Regular Expressions":
         "[Ch. 8](https://www.textbook.ds100.org/ch/08/text_intro.html)"
-      "**Live Session 4**{: .label .label-live } Lecture Recap":
       "**Lab 4**{: .label .label-lab } Data Cleaning and EDA":
+      "**Live Session 2**{: .label .label-live } Lecture Recap (3-4PM)":
+  - date: 2020-07-03
+    events:
+      "N/A (Holiday)":
+
 ---

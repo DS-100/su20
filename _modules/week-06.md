@@ -10,7 +10,6 @@ days:
     events:
       "**Lecture 20**{: .label .label-lecture } Inference for Modeling":
         "[Ch. 18.1, 18.3](https://www.textbook.ds100.org/ch/18/hyp_intro.html)"
-      "**Live Session 10**{: .label .label-live } Lecture Recap":
       "**Lab 11**{: .label .label-lab } Bootstrap the model parameters":
 
   - date: 2020-07-29
@@ -21,6 +20,8 @@ days:
   - date: 2020-07-30
     events:
       "**Lecture 22**{: .label .label-lecture } Dimensionality Reduction & PCA":
-      "**Live Session 11**{: .label .label-live } Lecture Recap":
       "**Lab 12**{: .label .label-lab } Decision Trees":
+  - date: 2020-07-31
+    events:
+      "**Live Session 6**{: .label .label-live } Lecture Recap (12-1PM)":
 ---

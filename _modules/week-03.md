@@ -12,7 +12,6 @@ days:
     events:
       "**Lecture 10**{: .label .label-lecture } Visualization II":
         "[Ch. 6.4-6.6](https://www.textbook.ds100.org/ch/06/viz_principles.html)"
-      "**Live Session 5**{: .label .label-live } Lecture Recap":
       "**Lab 5**{: .label .label-lab } Visualization & KDE":
 
   - date: 2020-07-08
@@ -25,4 +24,7 @@ days:
     events:
       "**Exam**{: .label .label-exam } Midterm 1 (7-8:30PM)":
       "**Lab 6**{: .label .label-lab } Modeling and Loss Functions":
+  - date: 2020-07-10
+    events:
+      "**Live Session 3**{: .label .label-live } Lecture Recap (12-1PM)":
 ---

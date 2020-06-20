@@ -5,7 +5,6 @@ days:
   - date: 2020-08-03
     events:
       "**Lecture 23**{: .label .label-lecture } PCA":
-      "**Live Session 12**{: .label .label-live } Lecture Recap":
       "**Discussion 13**{: .label .label-disc } PCA":
   - date: 2020-08-04
     events:
@@ -14,7 +13,7 @@ days:
 
   - date: 2020-08-05
     events:
-      "**Lecture 25**{: .label .label-lecture } Guest Lecture":
+      "**Lecture 25**{: .label .label-live } Guest Lecture":
       "**Discussion 14**{: .label .label-disc } Clustering":
       "**Homework 8**{: .label .label-hw } PCA":
   - date: 2020-08-06
