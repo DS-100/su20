@@ -6,6 +6,7 @@ nav_exclude: true
 
 # Lecture 2 – Data Sampling and Probability
 
+by Suraj Rampure (Summer 2020)
 
 - [slides](https://docs.google.com/presentation/d/1pc5QMNnhtpIltb1Qozk03vMjbzBsbO-71Il1dkDD-0k/edit?usp=sharing)
 - [video playlist](https://www.youtube.com/playlist?list=PLQCcNQgUcDfqBH3iR8XJMfHS23zycn0_W)
