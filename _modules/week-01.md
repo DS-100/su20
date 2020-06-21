@@ -6,8 +6,8 @@ days:
     events:
       "**Lecture 1**{: .label .label-live } Course Overview (live, Monday 9:30-11AM)":
         "[Ch. 1](https://www.textbook.ds100.org/ch/01/lifecycle_intro.html)"
-      "**Discussion 1**{: .label .label-disc } [Prerequisite Review](#) ([video](#)) ([solutions](#))":
-      "**Homework 1**{: .label .label-hw } [Prerequisites](#) (due Jun. 24)":
+      "**Discussion 1**{: .label .label-disc } Prerequisite Review":
+      "**Homework 1**{: .label .label-hw } [Prerequisites](resources/assets/hw/hw1.pdf) (due Jun. 24)":
   - date: 2020-06-23
     events:
       "**Lecture 2**{: .label .label-lecture } Data Sampling and Probability":
@@ -19,7 +19,7 @@ days:
       "**Lecture 3**{: .label .label-lecture } Random Variables":
         "[Ch. 12.1-12.2](https://www.textbook.ds100.org/ch/12/prob_random_vars.html)"
       "**Discussion 2**{: .label .label-disc } Random Variables":
-      "**Homework 2**{: .label .label-hw } Trump Sampling":
+      "**Homework 2**{: .label .label-hw } Trump Sampling (due Jun. 28)":
   - date: 2020-06-25
     events:
       "**Lecture 4**{: .label .label-lecture } SQL":
@@ -29,3 +29,4 @@ days:
     events:
       "**Live Session 1**{: .label .label-live } Lecture Recap (12-1PM)":
 ---
+[Week 1 Survey](https://forms.gle/n7vgqdeEfNdjrKmh9) (due Jun. 24)
