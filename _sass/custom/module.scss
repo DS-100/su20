@@ -58,7 +58,7 @@
       width: 100%;
 
       @include mq(sm) {
-        width: 75%;
+        width: 82%;
       }
 
       +p {
@@ -93,6 +93,8 @@
     .label-exam { background-color: #000000 }
 
     .label-live { background-color: #63c082 }
+
+    .label-survey { background-color: #aaaaaa }
 
   }
 

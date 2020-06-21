@@ -8,6 +8,7 @@ days:
         "[Ch. 1](https://www.textbook.ds100.org/ch/01/lifecycle_intro.html)"
       "**Discussion 1**{: .label .label-disc } Prerequisite Review":
       "**Homework 1**{: .label .label-hw } [Prerequisites](resources/assets/hw/hw1.pdf) (due Jun. 24)":
+      "**Survey 1**{: .label .label-survey } [Week 1 Survey](https://forms.gle/n7vgqdeEfNdjrKmh9) (due Jun. 24)":
   - date: 2020-06-23
     events:
       "**Lecture 2**{: .label .label-lecture } Data Sampling and Probability":
@@ -29,4 +30,3 @@ days:
     events:
       "**Live Session 1**{: .label .label-live } Lecture Recap (12-1PM)":
 ---
-[Week 1 Survey](https://forms.gle/n7vgqdeEfNdjrKmh9) (due Jun. 24)
