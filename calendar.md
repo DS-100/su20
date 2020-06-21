@@ -31,7 +31,7 @@ To access these events, use the Zoom links posted in <b><a href="https://piazza.
 
 ## Office Hours Calendar
 
-GSI and tutor office hours are in <span style="color:Gray">**grey**</span>. You should come to these with questions about anything – labs, homeworks, projects, discussions, concepts, etc. To access GSI and tutor office hours, go to our [Office Hours Queue](http://oh.ds100.org). When it’s your turn, you will be given the Zoom link to join.
+GSI and tutor office hours are in <span style="color:Gray">**grey**</span>. Click on each event to see which GSI or tutor is running each office hour time. You should come to these with questions about anything – labs, homeworks, projects, discussions, concepts, etc. To access GSI and tutor office hours, go to our [Office Hours Queue](http://oh.ds100.org). When it’s your turn, you will be given the Zoom link to join.
 
 Suraj and Allen's office hours are in <span style="color:Blue">**blue**</span>. You should come to these with questions about concepts and logistics. To access instructor office hours, use the Zoom links posted on Piazza.
 
