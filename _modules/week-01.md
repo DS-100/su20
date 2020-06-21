@@ -12,7 +12,7 @@ days:
     events:
       "**Lecture 2**{: .label .label-lecture } Data Sampling and Probability":
         "[Ch. 2](https://www.textbook.ds100.org/ch/02/design_intro.html)"
-      "**Lab 1**{: .label .label-lab } Prerequisite Coding (due Jun. 23)":
+      "**Lab 1**{: .label .label-lab } [Prerequisite Coding](http://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/su20&subPath=lab/lab01/) (due Jun. 23)":
 
   - date: 2020-06-24
     events:
