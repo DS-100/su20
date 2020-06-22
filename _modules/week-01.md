@@ -6,7 +6,7 @@ days:
     events:
       "**Lecture 1**{: .label .label-live } Course Overview (live, Monday 9:30-11AM)":
         "[Ch. 1](https://www.textbook.ds100.org/ch/01/lifecycle_intro.html)"
-      "**Discussion 1**{: .label .label-disc } Prerequisite Review":
+      "**Discussion 1**{: .label .label-disc } [Prerequisite Review](resources/assets/discussions/disc01.pdf) ([video](https://www.youtube.com/playlist?list=PLQCcNQgUcDfoDrr1LymqU1C5eAM6d0TBi))":
       "**Homework 1**{: .label .label-hw } [Prerequisites](resources/assets/hw/hw1.pdf) (due Jun. 24)":
       "**Survey 1**{: .label .label-survey } [Week 1 Survey](https://forms.gle/n7vgqdeEfNdjrKmh9) (due Jun. 24)":
   - date: 2020-06-23
