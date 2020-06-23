@@ -11,7 +11,7 @@ days:
       "**Survey 1**{: .label .label-survey } [Week 1 Survey](https://forms.gle/n7vgqdeEfNdjrKmh9) (due Jun. 24)":
   - date: 2020-06-23
     events:
-      "**Lecture 2**{: .label .label-lecture } Data Sampling and Probability":
+      "**Lecture 2**{: .label .label-lecture } [Data Sampling and Probability](lecture/lec2)":
         "[Ch. 2](https://www.textbook.ds100.org/ch/02/design_intro.html)"
       "**Lab 1**{: .label .label-lab } [Prerequisite Coding](http://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/su20&subPath=lab/lab01/) (due Jun. 23)":
 
