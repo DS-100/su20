@@ -6,7 +6,7 @@ days:
     events:
       "**Lecture 1**{: .label .label-live } Course Overview ([slides](https://docs.google.com/presentation/d/1cB4BvJo5_dmQH3fjc3gjG1gaZaNRpfhyaPAHYZuSjco/)) ([video](https://youtu.be/_6sIND3jOYg)) ([code](http://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/su20&subPath=lecture/lec01/))":
         "[Ch. 1](https://www.textbook.ds100.org/ch/01/lifecycle_intro.html)"
-      "**Discussion 1**{: .label .label-disc } [Prerequisite Review](resources/assets/discussions/disc01.pdf) ([video](https://www.youtube.com/playlist?list=PLQCcNQgUcDfoDrr1LymqU1C5eAM6d0TBi))":
+      "**Discussion 1**{: .label .label-disc } [Prerequisite Review](https://drive.google.com/file/d/1FASmi2ZhJjghebb65C4l55OsOky2yCzL/view?usp=sharing) ([video](https://www.youtube.com/playlist?list=PLQCcNQgUcDfoDrr1LymqU1C5eAM6d0TBi)) ([solutions](https://drive.google.com/file/d/1BbXhutdHFBrOFjtt14pA-8PKpBAecC2A/view?usp=sharing))":
       "**Homework 1**{: .label .label-hw } [Prerequisites](resources/assets/hw/hw1.pdf) (due Jun. 24)":
       "**Survey 1**{: .label .label-survey } [Week 1 Survey](https://forms.gle/n7vgqdeEfNdjrKmh9) (due Jun. 24)":
   - date: 2020-06-23
