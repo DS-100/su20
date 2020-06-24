@@ -54,7 +54,7 @@ Make sure to complete the Quick Check questions in between each video. These are
 </tr>
 <tr>
 <td><strong>3.6</strong> <br> Variance of random variables. Walking through an alternate calculation of variance. Variance of a linear transformation. </td>
-<td><iframe width="300" height="300" height src="https://youtube.com/embed/_1OvBDJPsg0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
+<td><iframe width="300" height="300" height src="https://www.youtube.com/embed/ctBMKklfC30" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
 <td><a href="https://docs.google.com/forms/d/e/1FAIpQLSe_MitTcLHV4_jdtVxPz5Sh6Np2Chb_1M4GhDXabncw769_Qg/viewform" target="\_blank">3.6</a></td>
 </tr>
 <tr>
