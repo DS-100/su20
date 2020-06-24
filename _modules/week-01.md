@@ -13,7 +13,7 @@ days:
     events:
       "**Lecture 2**{: .label .label-lecture } [Data Sampling and Probability](lecture/lec2)":
         "[Ch. 2](https://www.textbook.ds100.org/ch/02/design_intro.html)"
-      "**Lab 1**{: .label .label-lab } [Prerequisite Coding](http://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/su20&subPath=lab/lab01/) (due Jun. 23)":
+      "**Lab 1**{: .label .label-lab } [Prerequisite Coding](https://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/su20&subPath=lab/lab01/) (due Jun. 23)":
 
   - date: 2020-06-24
     events:
@@ -25,7 +25,7 @@ days:
     events:
       "**Lecture 4**{: .label .label-lecture } SQL":
         "[Ch. 9](https://www.textbook.ds100.org/ch/09/sql_intro.html)"
-      "**Lab 2**{: .label .label-lab } SQL (due Jun. 25)":
+      "**Lab 2**{: .label .label-lab } [SQL](https://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/su20&subPath=lab/lab02/) (due Jun. 25)":
   - date: 2020-06-26
     events:
       "**Live Session 1**{: .label .label-live } Lecture Recap (12-1PM)":
