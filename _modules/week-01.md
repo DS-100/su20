@@ -17,7 +17,7 @@ days:
 
   - date: 2020-06-24
     events:
-      "**Lecture 3**{: .label .label-lecture } Random Variables":
+      "**Lecture 3**{: .label .label-lecture } [Random Variables](lecture/lec3)":
         "[Ch. 12.1-12.2](https://www.textbook.ds100.org/ch/12/prob_random_vars.html)"
       "**Discussion 2**{: .label .label-disc } Random Variables":
       "**Homework 2**{: .label .label-hw } Trump Sampling (due Jun. 28)":
