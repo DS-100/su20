@@ -19,7 +19,7 @@ days:
     events:
       "**Lecture 3**{: .label .label-lecture } [Random Variables](lecture/lec3)":
         "[Ch. 12.1-12.2](https://www.textbook.ds100.org/ch/12/prob_random_vars.html)"
-      "**Discussion 2**{: .label .label-disc } Random Variables":
+      "**Discussion 2**{: .label .label-disc } [Random Variables](https://drive.google.com/file/d/1GHnTyMLz72QFBHJPNYlfneGnSuSgShcE/view?usp=sharing) ([video](https://www.youtube.com/playlist?list=PLQCcNQgUcDfr2CEjY_jFbwvH2QphsqTGw))":
       "**Homework 2**{: .label .label-hw } Trump Sampling (due Jun. 28)":
   - date: 2020-06-25
     events:
