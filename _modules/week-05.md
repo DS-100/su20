@@ -19,11 +19,11 @@ days:
       "**Lecture 18**{: .label .label-lecture } Logistic Regression I":
         "[Ch. 17.1-17.3](https://www.textbook.ds100.org/ch/17/classification_prob.html)"
       "**Discussion 10**{: .label .label-disc } Gradient Descent & Logistic Regression":
-      "**Homework 7**{: .label .label-hw } Gradient Descent & Logistic Regression":
   - date: 2020-07-23
     events:
       "**Lecture 19**{: .label .label-lecture } Logistic Regression II and Classification":
         "[Ch. 17.4-17.7](https://www.textbook.ds100.org/ch/17/classification_log_reg.html)"
+      "**Homework 7**{: .label .label-hw } Gradient Descent & Logistic Regression":
       "**Lab 10**{: .label .label-lab } Logistic Regression":
   - date: 2020-07-24
     events:
