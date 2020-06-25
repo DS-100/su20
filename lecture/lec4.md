@@ -55,7 +55,7 @@ Make sure to complete the Quick Check questions in between each video. These are
 <td><a href="https://forms.gle/HGsx98FGk2QicaybA" target="\_blank">4.5</a></td>
 </tr>
 <tr>
-<td><strong>4.6</strong> <br> Python and SQL: predicates and casting.</td>
+<td><strong>4.6</strong> <br> SQL predicates and casting.</td>
 <td><iframe width="300" height="300" height src="https://www.youtube.com/embed/vxmQiIGeBt8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
 <td><a href="https://forms.gle/MR9feaaXQtfhJfdX7" target="\_blank">4.6</a></td>
 </tr>
@@ -65,7 +65,7 @@ Make sure to complete the Quick Check questions in between each video. These are
 <td><a href="https://forms.gle/kUsq9FEpa9cRGgxg9" target="\_blank">4.7</a></td>
 </tr>
 <tr>
-<td><strong>4.8</strong> <br> SQL CASE expressions the SUBSTR function.</td>
+<td><strong>4.8</strong> <br> SQL CASE expressions and the SUBSTR function.</td>
 <td><iframe width="300" height="300" height src="https://www.youtube.com/embed/4whyolB06Bo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
 <td><a href="https://forms.gle/Jy4kpdKrPQF3qYdr6" target="\_blank">4.8</a></td>
 </tr>
