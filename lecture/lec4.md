@@ -12,6 +12,7 @@ by Allen Shen (Summer 2020)
 - [video playlist](https://www.youtube.com/playlist?list=PLQCcNQgUcDfov5xwxGogaGS28vHZuA4r1)
 - [code](https://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/su20&subPath=lecture/lec04/)
 - [code HTML](http://www.ds100.org/su20/resources/assets/lectures/lec04/lec04.html)
+- [code walkthrough (Allen Shen)](https://youtu.be/zetdBg61eaE)
 
 Make sure to complete the Quick Check questions in between each video. These are ungraded, but it's in your best interest to do them.
 

@@ -28,5 +28,5 @@ days:
       "**Lab 2**{: .label .label-lab } [SQL](https://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/su20&subPath=lab/lab02/) (due Jun. 25)":
   - date: 2020-06-26
     events:
-      "**Live Session 1**{: .label .label-live } Lecture Recap (12-1PM)":
+      "**Live Session 1**{: .label .label-live } Random Variables, SQL ([video](https://www.youtube.com/playlist?list=PLQCcNQgUcDfq2gUIPgp3dZrGlchf2awe0)) ([notes](resources/assets/lectures/live01/live01-expectation-sample-mean.pdf))":
 ---

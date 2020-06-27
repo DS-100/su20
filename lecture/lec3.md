@@ -10,6 +10,7 @@ by Suraj Rampure (Summer 2020)
 
 - [slides](https://docs.google.com/presentation/d/1spevDPjSQtsF6k8fzO6IVaSd8gDl7GucILi8qc0N9pg/edit?usp=sharing)
 - [video playlist](https://www.youtube.com/playlist?list=PLQCcNQgUcDfrG0qBSUAGSDMGKd6a0WwK7)
+- Lecture Recap 1, Part 1 ([video](https://youtu.be/AWfC-9M8DpA)) ([notes](../resources/assets/lectures/live01/live01-expectation-sample-mean.pdf))
 
 Make sure to complete the Quick Check questions in between each video. These are ungraded, but it's in your best interest to do them.
 
