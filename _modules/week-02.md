@@ -8,6 +8,7 @@ days:
         "[Ch. 3](https://www.textbook.ds100.org/ch/03/pandas_intro.html)"
       "**Discussion 3**{: .label .label-disc } SQL":
       "**Project 1**{: .label .label-proj } Food Safety":
+      "**Survey 2**{: .label .label-survey } [Week 2 Survey](https://docs.google.com/forms/d/e/1FAIpQLSfypSLcS3G4037pcR-IIf-Y_fxrfvW1OceDyPlmZ538wTjBQQ/viewform) (due Jul. 1)":
   - date: 2020-06-30
     events:
       "**Lecture 6**{: .label .label-lecture } Pandas II":
