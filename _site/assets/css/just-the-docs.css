@@ -153,7 +153,7 @@ td, th { padding: 0; }
 .module-days .module-day.main, .module-days .module-event.main { border-top: 1px solid #eeebee; }
 .module-days .module-day.main:first-of-type, .module-days .module-event.main:first-of-type { border-top: none; }
 .module-days .module-day p, .module-days .module-event p { display: inline-block; margin: 0; width: 100%; }
-@media (min-width: 31.25rem) { .module-days .module-day p, .module-days .module-event p { width: 75%; } }
+@media (min-width: 31.25rem) { .module-days .module-day p, .module-days .module-event p { width: 82%; } }
 .module-days .module-day p + p, .module-days .module-event p + p { width: auto; }
 .module-days .module-day { grid-column-start: 1; }
 .module-days .module-event { grid-column-start: 2; }
@@ -166,6 +166,7 @@ td, th { padding: 0; }
 .module-days .module-event .label-proj { background-color: #FF8144; }
 .module-days .module-event .label-exam { background-color: #000000; }
 .module-days .module-event .label-live { background-color: #63c082; }
+.module-days .module-event .label-survey { background-color: #aaaaaa; }
 
 .schedule { box-shadow: 0 1px 3px rgba(0, 0, 0, 0.07), 0 4px 14px rgba(0, 0, 0, 0.05); margin-left: -1rem; margin-right: -1rem; margin-bottom: 1rem; overflow-x: scroll; position: relative; }
 @media (min-width: 46.25rem) { .schedule { border-radius: 4px; margin-left: 0; margin-right: 0; } }
