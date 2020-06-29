@@ -4,7 +4,7 @@ weekNumber: 2
 days:
   - date: 2020-06-29
     events:
-      "**Lecture 5**{: .label .label-lecture } Pandas I":
+      "**Lecture 5**{: .label .label-lecture } [Pandas I](lecture/lec5)":
         "[Ch. 3](https://www.textbook.ds100.org/ch/03/pandas_intro.html)"
       "**Discussion 3**{: .label .label-disc } [SQL](https://drive.google.com/file/d/19yRbiKWxj34RYNxU8VK3n-D41q6g-Sbp/view?usp=sharing) ([video](https://www.youtube.com/playlist?list=PLQCcNQgUcDfrjZb1DuW1ck--rYvdUXCR9))":
       "**Project 1**{: .label .label-proj } [Food Safety](http://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/su20&subPath=proj/proj1/) (due Jul. 6)":

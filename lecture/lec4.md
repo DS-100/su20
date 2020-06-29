@@ -79,10 +79,10 @@ Make sure to complete the Quick Check questions in between each video. These are
 <tr>
 <td><strong>Notebook</strong> <br> Notebook walkthrough (Josh Hug).</td>
 <td><iframe width="300" height="300" height src="https://www.youtube.com/embed/QCrHZnLM0H4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
-<td><a href="N/A" target="\_blank">4.9</a></td>
+<td>N/A</td>
 </tr>
 <tr>
 <td><strong>Notebook</strong> <br> Notebook walkthrough (Allen Shen).</td>
 <td><iframe width="300" height="300" height src="https://www.youtube.com/embed/zetdBg61eaE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
-<td><a href="N/A" target="\_blank">4.9</a></td>
+<td>N/A</td>
 </tr>

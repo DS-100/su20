@@ -6,12 +6,13 @@ nav_exclude: true
 
 # Lecture 5 - Pandas, Part 1
 
-by Allen Shen (Summer 2020)
+by Josh Hug (Fall 2019)
 
 - [slides](https://docs.google.com/presentation/d/1EyNlu_BDGSW3TiIxPkdwC2tSBwjp-XWENpFxC3X7F8I/edit?usp=sharing)
 - [video playlist](https://www.youtube.com/playlist?list=PLQCcNQgUcDfrqZt2qvUInxjAwJ7tEkM6W)
 - [code](https://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/su20&subPath=lecture/lec05/)
 - [code HTML](http://www.ds100.org/su20/resources/assets/lectures/lec05/lec05.html)
+- [Intro to Pandas if you’ve taken Data 8 (zip)](https://github.com/DS-100/su20/blob/master/lecture/lec05/pandas_for_data8_students.zip)
 
 Make sure to complete the Quick Check questions in between each video. These are ungraded, but it's in your best interest to do them.
 
