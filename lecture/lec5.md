@@ -51,7 +51,7 @@ Make sure to complete the Quick Check questions in between each video. These are
 </tr>
 <tr>
 <td><strong>5.4.1</strong> <br> Pandas indexing with .loc.</td>
-<td><iframe width="300" height="300" height src="https://www.youtube.com/embed/2PN9i4sJCfI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
+<td><iframe width="300" height="300" height src="https://www.youtube.com/embed/F2Y6yY3yO2I" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
 <td><a href="https://forms.gle/dLaPin1nt12fVJmQ9" target="\_blank">5.4.1</a></td>
 </tr>
 <tr>

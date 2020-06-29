@@ -12,6 +12,7 @@ by Allen Shen (Summer 2020)
 - [video playlist](https://www.youtube.com/playlist?list=PLQCcNQgUcDfov5xwxGogaGS28vHZuA4r1)
 - [code](https://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/su20&subPath=lecture/lec04/)
 - [code HTML](http://www.ds100.org/su20/resources/assets/lectures/lec04/lec04.html)
+- [code walkthrough (Josh Hug)](https://youtu.be/QCrHZnLM0H4)
 - [code walkthrough (Allen Shen)](https://youtu.be/zetdBg61eaE)
 
 Make sure to complete the Quick Check questions in between each video. These are ungraded, but it's in your best interest to do them.
@@ -74,4 +75,14 @@ Make sure to complete the Quick Check questions in between each video. These are
 <td><strong>4.9</strong> <br> SQL summary and conclusion.</td>
 <td><iframe width="300" height="300" height src="https://www.youtube.com/embed/mqOX_E7l0lU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
 <td><a href="https://forms.gle/c25P8qRVJ3GhCMey6" target="\_blank">4.9</a></td>
+</tr>
+<tr>
+<td><strong>Notebook</strong> <br> Notebook walkthrough (Josh Hug).</td>
+<td><iframe width="300" height="300" height src="https://www.youtube.com/embed/QCrHZnLM0H4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
+<td><a href="N/A" target="\_blank">4.9</a></td>
+</tr>
+<tr>
+<td><strong>Notebook</strong> <br> Notebook walkthrough (Allen Shen).</td>
+<td><iframe width="300" height="300" height src="https://www.youtube.com/embed/zetdBg61eaE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
+<td><a href="N/A" target="\_blank">4.9</a></td>
 </tr>
