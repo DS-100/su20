@@ -8,7 +8,7 @@ nav_exclude: true
 
 by Joseph Gonzalez (Spring 2020)
 
-- [slides](https://drive.google.com/file/d/1VRngsdQXg25Fg1CXTSWBKS4cRO6FYaec/view?usp=sharing)
+- [slides](https://docs.google.com/presentation/d/1aokp8F2xK_0NnoHy9m7-4dv_InUKwMnprOaRcRBsFmU/edit#slide=id.g8a480a94c4_0_5)
 - [video playlist](https://www.youtube.com/playlist?list=PLQCcNQgUcDfqqkmBeC0Pj-ma8YywEMI0I)
 - [code (TODO)]()
 
