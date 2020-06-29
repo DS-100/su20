@@ -13,7 +13,7 @@ days:
     events:
       "**Lecture 6**{: .label .label-lecture } Pandas II":
         "[Ch. 3](https://www.textbook.ds100.org/ch/03/pandas_intro.html)"
-      "**Lab 3**{: .label .label-lab } Pandas I":
+      "**Lab 3**{: .label .label-lab } [Pandas I](https://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/su20&subPath=lab/lab03/) (due Jun. 30)":
 
   - date: 2020-07-01
     events:
