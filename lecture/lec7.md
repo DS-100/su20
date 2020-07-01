@@ -10,7 +10,8 @@ by Joseph Gonzalez (Spring 2020)
 
 - [slides](https://docs.google.com/presentation/d/1aokp8F2xK_0NnoHy9m7-4dv_InUKwMnprOaRcRBsFmU/edit#slide=id.g8a480a94c4_0_5)
 - [video playlist](https://www.youtube.com/playlist?list=PLQCcNQgUcDfqqkmBeC0Pj-ma8YywEMI0I)
-- [code (TODO)]()
+- [code](https://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/su20&subPath=lecture/lec07/)
+- [(bonus) Joe Hellerstein's primer on data models](https://drive.google.com/file/d/1nLftW2PaJNot-J9zIgES4HchXTTrB_63/view?usp=sharing)
 
 Make sure to complete the Quick Check questions in between each video. These are ungraded, but it's in your best interest to do them.
 
