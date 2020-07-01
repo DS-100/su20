@@ -24,7 +24,7 @@ days:
     events:
       "**Lecture 8**{: .label .label-lecture } Regular Expressions":
         "[Ch. 8](https://www.textbook.ds100.org/ch/08/text_intro.html)"
-      "**Lab 4**{: .label .label-lab } Data Cleaning and EDA":
+      "**Lab 4**{: .label .label-lab } [Data Cleaning and EDA](http://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/su20&subPath=lab/lab04/) (due Jul. 2)":
       "**Live Session 2**{: .label .label-live } Lecture Recap (3-4PM)":
   - date: 2020-07-03
     events:
