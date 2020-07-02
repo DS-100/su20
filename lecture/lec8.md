@@ -30,22 +30,22 @@ Make sure to complete the Quick Check questions in between each video. These are
 </thead>
 <tbody>
 <tr>
-<td><strong>8.1</strong> <br> Canonicalizing string and extracting from text using the split method.</td>
+<td><strong>8.1</strong> <br> Canonicalizing strings and using the split method to extract from textual data.</td>
 <td><iframe width="300" height="300" height src="https://www.youtube.com/embed/jXw2b3UuSnA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
 <td><a href="https://forms.gle/8Q7TeWeTc8aDn64V7" target="\_blank">8.1</a></td>
 </tr>
 <tr>
-<td><strong>8.2</strong> <br> Basic regular expression syntax with operations such as concatenation and closure. Order of operations in regular expressions.</td>
+<td><strong>8.2</strong> <br> Basic regular expression syntax (i.e. closures). Order of operations in regular expressions.</td>
 <td><iframe width="300" height="300" height src="https://www.youtube.com/embed/3E5jcBIkVMQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
 <td><a href="https://forms.gle/9Guqx3AtNaWQPiVK9" target="\_blank">8.2</a></td>
 </tr>
 <tr>
-<td><strong>8.3</strong> <br> Expanded regular expression syntax with operations such as character classes. A couple of regular expression exercises.</td>
+<td><strong>8.3</strong> <br> Expanded regular expression syntax (i.e. character classes). A couple of regular expression exercises.</td>
 <td><iframe width="300" height="300" height src="https://www.youtube.com/embed/qIPhnd3d3SE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
 <td><a href="https://forms.gle/oM7NYTQbx5cxPJDN7" target="\_blank">8.3</a></td>
 </tr>
 <tr>
-<td><strong>8.4</strong> <br> Limitations of regular expressions. Other regular expression syntax with operations such as lazy closures.</td>
+<td><strong>8.4</strong> <br> Limitations of regular expressions. Other regular expression syntax (i.e. lazy closures).</td>
 <td><iframe width="300" height="300" height src="https://www.youtube.com/embed/tD4Wi2Jyzpc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
 <td><a href="https://forms.gle/No1EK4miZiBgnh987" target="\_blank">8.4</a></td>
 </tr>

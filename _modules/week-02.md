@@ -22,7 +22,7 @@ days:
       "**Discussion 4**{: .label .label-disc } [Pandas II](http://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/su20&subPath=disc/disc04/) ([video](https://www.youtube.com/playlist?list=PLQCcNQgUcDfq05bSQ2UWThjDhBOXpQpnP))":
   - date: 2020-07-02
     events:
-      "**Lecture 8**{: .label .label-lecture } Regular Expressions":
+      "**Lecture 8**{: .label .label-lecture } [Regular Expressions](lecture/lec8)":
         "[Ch. 8](https://www.textbook.ds100.org/ch/08/text_intro.html)"
       "**Lab 4**{: .label .label-lab } [Data Cleaning and EDA](http://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/su20&subPath=lab/lab04/) (due Jul. 2)":
       "**Live Session 2**{: .label .label-live } Lecture Recap (3-4PM)":
