@@ -8,6 +8,7 @@ days:
         "[Ch. 6.1-6.3](https://www.textbook.ds100.org/ch/06/viz_quantitative.html)"
       "**Discussion 5**{: .label .label-disc } Regex":
       "**Homework 3**{: .label .label-hw } Bike Sharing":
+      "**Survey 3**{: .label .label-survey } [Week 3 Survey](https://docs.google.com/forms/d/e/1FAIpQLSe5q1uLLStE0k6KRi7DUbD74CUr-IxwEvG6XkTKuolwRKmAXg/viewform) (due Jul. 8)":
   - date: 2020-07-07
     events:
       "**Lecture 10**{: .label .label-lecture } Visualization II":
