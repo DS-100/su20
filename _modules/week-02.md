@@ -19,7 +19,7 @@ days:
     events:
       "**Lecture 7**{: .label .label-lecture } [Data Cleaning and EDA](lecture/lec7)":
         "[Ch. 4.1](https://www.textbook.ds100.org/ch/04/eda_data_types.html),[Ch. 5](https://www.textbook.ds100.org/ch/05/cleaning_intro.html)"
-      "**Discussion 4**{: .label .label-disc } [Pandas II](http://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/su20&subPath=disc/disc04/) ([video](https://www.youtube.com/playlist?list=PLQCcNQgUcDfq05bSQ2UWThjDhBOXpQpnP))":
+      "**Discussion 4**{: .label .label-disc } [Pandas II](http://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/su20&subPath=disc/disc04/) ([video](https://www.youtube.com/playlist?list=PLQCcNQgUcDfq05bSQ2UWThjDhBOXpQpnP)) ([solutions](http://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/su20&subPath=disc/disc04/))":
   - date: 2020-07-02
     events:
       "**Lecture 8**{: .label .label-lecture } [Regular Expressions](lecture/lec8)":
