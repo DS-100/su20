@@ -10,7 +10,7 @@ by Suraj Rampure (Summer 2020)
 
 - [slides](https://docs.google.com/presentation/d/1TpwM15CBB0_jDMBH3cxeZFW69y-6yg9IIVHKrEoEPf4/edit#slide=id.p)
 - [video playlist](https://www.youtube.com/playlist?list=PLQCcNQgUcDfoRWEe4n1MysJx3zCO5GwGi)
-- [code (TODO)]()
+- [code](https://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/su20&subPath=lecture/lec09/)
 - [code HTML](../../resources/assets/lectures/lec09/lec09.html)
 
 Make sure to complete the Quick Check questions in between each video. These are ungraded, but it's in your best interest to do them.

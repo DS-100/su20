@@ -10,8 +10,8 @@ by Suraj Rampure (Summer 2020)
 
 - [slides](https://docs.google.com/presentation/d/1o1VlVteRhUf2arJ0LMadysE4mOhXqLw-tivVtPC5iFY/edit#slide=id.p)
 - [video playlist](https://www.youtube.com/playlist?list=PLQCcNQgUcDfqR48O02CBSzfE-AfWtgnp3)
-- [code (TODO)]()
-- [code HTML](TODO)
+- [code](https://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/su20&subPath=lecture/lec10/)
+- [code HTML](../../resources/assets/lectures/lec10/lec10.html)
 
 Extra reading on colormaps:
 - [How the Rainbow Color Map Misleads](https://eagereyes.org/basics/rainbow-color-map)

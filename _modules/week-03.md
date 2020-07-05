@@ -4,14 +4,14 @@ weekNumber: 3
 days:
   - date: 2020-07-06
     events:
-      "**Lecture 9**{: .label .label-lecture } Visualization I":
+      "**Lecture 9**{: .label .label-lecture } [Visualization I](lecture/lec9)":
         "[Ch. 6.1-6.3](https://www.textbook.ds100.org/ch/06/viz_quantitative.html)"
       "**Discussion 5**{: .label .label-disc } Regex":
       "**Homework 3**{: .label .label-hw } [Bike Sharing](http://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/su20&subPath=hw/hw3/) (due Jul. 12)":
       "**Survey 3**{: .label .label-survey } [Week 3 Survey](https://docs.google.com/forms/d/e/1FAIpQLSe5q1uLLStE0k6KRi7DUbD74CUr-IxwEvG6XkTKuolwRKmAXg/viewform) (due Jul. 8)":
   - date: 2020-07-07
     events:
-      "**Lecture 10**{: .label .label-lecture } Visualization II":
+      "**Lecture 10**{: .label .label-lecture } [Visualization II](lecture/lec10)":
         "[Ch. 6.4-6.6](https://www.textbook.ds100.org/ch/06/viz_principles.html)"
       "**Lab 5**{: .label .label-lab } Visualization & KDE":
 
