@@ -7,7 +7,7 @@ days:
       "**Lecture 9**{: .label .label-lecture } Visualization I":
         "[Ch. 6.1-6.3](https://www.textbook.ds100.org/ch/06/viz_quantitative.html)"
       "**Discussion 5**{: .label .label-disc } Regex":
-      "**Homework 3**{: .label .label-hw } [Bike Sharing](http://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/su20&subPath=hw/hw3/)":
+      "**Homework 3**{: .label .label-hw } [Bike Sharing](http://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/su20&subPath=hw/hw3/) (due Jul. 12)":
       "**Survey 3**{: .label .label-survey } [Week 3 Survey](https://docs.google.com/forms/d/e/1FAIpQLSe5q1uLLStE0k6KRi7DUbD74CUr-IxwEvG6XkTKuolwRKmAXg/viewform) (due Jul. 8)":
   - date: 2020-07-07
     events:
