@@ -17,7 +17,7 @@ description: Calendars with times for all course events.
 
 This calendar contains times for
 - live lecture recap sessions (in <span style="color:Green">**green**</span>)
-- live discussion sessions (in <span style="color:Red">**red**</span>) and discussion recap sessions (in <span style="color:Orange">**orange**</span>)
+- live discussion sessions (in <span style="color:Red">**red**</span>) and exam prep sessions (in <span style="color:Orange">**orange**</span>)
 - live lab sessions (in <span style="color:SkyBlue">**blue**</span>)
 - other special events (in <span style="color:Gold">**yellow**</span>)
 
