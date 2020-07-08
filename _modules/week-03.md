@@ -17,7 +17,7 @@ days:
 
   - date: 2020-07-08
     events:
-      "**Lecture 11**{: .label .label-lecture } Modeling":
+      "**Lecture 11**{: .label .label-lecture } [Modeling](lecture/lec11)":
         "[Ch. 10](https://www.textbook.ds100.org/ch/10/modeling_intro.html)"
       "**Discussion 6**{: .label .label-disc } Visualizations and Transformations":
       "**Homework 4**{: .label .label-hw } Trump":
