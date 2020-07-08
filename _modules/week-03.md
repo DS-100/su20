@@ -24,7 +24,7 @@ days:
   - date: 2020-07-09
     events:
       "**Exam**{: .label .label-exam } Midterm 1 (7-8:30PM)":
-      "**Lab 6**{: .label .label-lab } Modeling and Loss Functions":
+      "**Lab 6**{: .label .label-lab } [Modeling and Loss Functions](http://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/su20&subPath=lab/lab06/) (due Jul. 12)":
   - date: 2020-07-10
     events:
       "**Live Session 3**{: .label .label-live } Lecture Recap (12-1PM)":
