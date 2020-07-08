@@ -18,8 +18,8 @@ days:
   - date: 2020-07-08
     events:
       "**Lecture 11**{: .label .label-lecture } [Modeling](lecture/lec11)":
-        "[Ch. 10](https://www.textbook.ds100.org/ch/10/modeling_intro.html)"
-      "**Discussion 6**{: .label .label-disc } [Visualizations and Transformations](https://drive.google.com/file/d/1Q9Uar-mDWtzj-MNo4Xdo5cVn4VLPnEXZ/view?usp=sharing)":
+        "[Ch. 10](https://www.textbook.ds100.org/ch/10/modeling_intro.html)":
+      "**Discussion 6**{: .label .label-disc } [Visualizations and Transformations](https://drive.google.com/file/d/1Q9Uar-mDWtzj-MNo4Xdo5cVn4VLPnEXZ/view?usp=sharing)([video](https://www.youtube.com/playlist?list=PLQCcNQgUcDfoCpvvRYePxv6qF_7Be0tNg))":
       "**Homework 4**{: .label .label-hw } Trump":
   - date: 2020-07-09
     events:
