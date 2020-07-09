@@ -46,7 +46,7 @@ Make sure to complete the Quick Check questions in between each video. These are
 </tr>
 <tr>
 <td><strong>11.4</strong> <br>Minimizing mean squared error for the constant model using calculus, to show that the sample mean is the optimal model parameter in this case.</td>
-<td><iframe width="300" height="300" height src="https://youtube.com/embed/dJO00VmwcNY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
+<td><iframe width="300" height="300" height src="https://youtube.com/embed/QC78C89uzdk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
 <td><a href="https://docs.google.com/forms/d/e/1FAIpQLSeEZaVLdkYsKw-9-DNpiszQcB5HcqkRzoNXpXICdMB0q4t7GA/viewform" target="\_blank">11.4</a></td>
 </tr>
 <tr>
