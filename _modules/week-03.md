@@ -20,11 +20,11 @@ days:
       "**Lecture 11**{: .label .label-lecture } [Modeling](lecture/lec11)":
         "[Ch. 10](https://www.textbook.ds100.org/ch/10/modeling_intro.html)"
       "**Discussion 6**{: .label .label-disc } [Visualizations and Transformations](https://drive.google.com/file/d/1Q9Uar-mDWtzj-MNo4Xdo5cVn4VLPnEXZ/view?usp=sharing) ([video](https://www.youtube.com/playlist?list=PLQCcNQgUcDfoCpvvRYePxv6qF_7Be0tNg)) ([notebook](https://drive.google.com/file/d/11hGpIiQ8_8OrHZL9k8oYvpvXHbKAzwss/view?usp=sharing))([solutions](https://drive.google.com/file/d/1i8WbO_c3Dcl3KldIFvN2YGjy2ddSLp9e/view?usp=sharing))":
-      "**Homework 4**{: .label .label-hw } Trump":
   - date: 2020-07-09
     events:
       "**Exam**{: .label .label-exam } Midterm 1 (7-8:30PM)":
       "**Lab 6**{: .label .label-lab } [Modeling and Loss Functions](http://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/su20&subPath=lab/lab06/) (due Jul. 12)":
+      "**Homework 4**{: .label .label-hw } [Trump Tweets](http://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/su20&subPath=hw/hw4/) (due Jul. 15)":
   - date: 2020-07-10
     events:
       "**Live Session 3**{: .label .label-live } Lecture Recap (12-1PM)":
