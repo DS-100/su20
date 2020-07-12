@@ -26,6 +26,6 @@ days:
       "**Lab 6**{: .label .label-lab } [Modeling and Loss Functions](http://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/su20&subPath=lab/lab06/) (due Jul. 12)":
   - date: 2020-07-10
     events:
-      "**Live Session 3**{: .label .label-live } Lecture Recap (12-1PM)":
+      "**Live Session 3**{: .label .label-live } Ask Me Anything":
       "**Homework 4**{: .label .label-hw } [Trump Tweets](http://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/su20&subPath=hw/hw4/) (due Jul. 15)":
 ---
