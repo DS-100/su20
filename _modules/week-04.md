@@ -12,7 +12,7 @@ days:
     events:
       "**Lecture 13**{: .label .label-lecture } Ordinary Least Squares":
         "[Ch. 13.4](https://www.textbook.ds100.org/ch/13/linear_projection.html)"
-      "**Lab 7**{: .label .label-lab } Regression":
+      "**Lab 7**{: .label .label-lab } [Regression](http://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/su20&subPath=lab/lab07/) (due Jul. 14)":
 
   - date: 2020-07-15
     events:
