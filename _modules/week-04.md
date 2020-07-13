@@ -6,7 +6,7 @@ days:
     events:
       "**Lecture 12**{: .label .label-lecture } Simple Linear Regression":
         "[Ch. 13.1-13.3](https://www.textbook.ds100.org/ch/13/linear_tips.html)"
-      "**Discussion 7**{: .label .label-disc } Correlation":
+      "**Discussion 7**{: .label .label-disc } [Correlation](https://drive.google.com/file/d/1yJmyqlSJ7O5JJDqWsJABjxd-V5f7EXAm/view?usp=sharing) ([video](https://www.youtube.com/playlist?list=PLQCcNQgUcDfoNXIhW9dOhI5TThBmM43WY))":
       "**Survey 4**{: .label .label-survey } [Week 4 Survey + Midterm 2 Alt. Request](https://docs.google.com/forms/d/e/1FAIpQLSeyhhnHis7oANvqBYm-9OqMdMXlMxzG_Em8odgZkqtP2CTnLg/viewform) (due Jul. 15)":
   - date: 2020-07-14
     events:
