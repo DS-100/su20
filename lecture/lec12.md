@@ -61,6 +61,6 @@ Make sure to complete the Quick Check questions in between each video. These are
 </tr>
 <tr>
 <td><strong>12.7</strong> <br>RMSE as a metric of accuracy. Multiple R-squared as a metric of explained variation. Summary.</td>
-<td><iframe width="300" height="300" height src="https://youtube.com/embed/hZvluH6A12I" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
+<td><iframe width="300" height="300" height src="https://youtube.com/embed/1jLglngUYUM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
 <td><a href="https://docs.google.com/forms/d/e/1FAIpQLSdSTtOCwge1ShGlEKJucXS2XLKXQNyooKpJ7UAa5EgHv9D61g/viewform" target="\_blank">12.7</a></td>
 </tr>
