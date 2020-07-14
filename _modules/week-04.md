@@ -10,7 +10,7 @@ days:
       "**Survey 4**{: .label .label-survey } [Week 4 Survey + Midterm 2 Alt. Request](https://docs.google.com/forms/d/e/1FAIpQLSeyhhnHis7oANvqBYm-9OqMdMXlMxzG_Em8odgZkqtP2CTnLg/viewform) (due Jul. 15)":
   - date: 2020-07-14
     events:
-      "**Lecture 13**{: .label .label-lecture } Ordinary Least Squares":
+      "**Lecture 13**{: .label .label-lecture } [Ordinary Least Squares](lecture/lec13)":
         "[Ch. 13.4](https://www.textbook.ds100.org/ch/13/linear_projection.html)"
       "**Lab 7**{: .label .label-lab } [Regression](http://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/su20&subPath=lab/lab07/) (due Jul. 14)":
 
