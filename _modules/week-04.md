@@ -16,7 +16,7 @@ days:
 
   - date: 2020-07-15
     events:
-      "**Lecture 14**{: .label .label-lecture } Feature Engineering":
+      "**Lecture 14**{: .label .label-lecture } [Feature Engineering](lecture/lec14)":
         "[Ch. 14](https://www.textbook.ds100.org/ch/14/feature_engineering.html)"
       "**Discussion 8**{: .label .label-disc } Geometric Least Squares & One Hot Encoding":
   - date: 2020-07-16

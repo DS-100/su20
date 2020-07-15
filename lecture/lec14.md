@@ -8,12 +8,12 @@ nav_exclude: true
 
 by Joseph Gonzalez (Spring 2020)
 
-- [slides](TODO)
+- [slides](https://docs.google.com/presentation/d/1DhGgVu0iZWtegFDSF_KpkD7zj6GbtpRcUa6ct2bPpKI/edit#slide=id.g8d9052a937_0_136)
 - [video playlist](https://www.youtube.com/playlist?list=PLQCcNQgUcDfrgg7XWvKU2cllJOaxa36R1)
-- [code](TODO)
-- [code HTML](TODO)
+- [code](https://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/su20&subPath=lecture/lec14/)
+- code HTML: [Part 1](../../resources/assets/lectures/lec14/lec14-part1.html), [Part 2](../../resources/assets/lectures/lec14/lec14-part2.html), [Part 3](../../resources/assets/lectures/lec14/lec14-part3.html)
 
-**Important:** This lecture is a combination of two lectures from Spring 2020 (this is why the video titles don't match our numbering). Read this before proceeding with the lectures, as it details which concepts are and are not in scope.
+**Important:** This lecture is a combination of two lectures from Spring 2020 (this is why the video titles don't match our numbering). Read this before proceeding with the lectures, as it details which concepts you should focus on.
 
 Sections 14.1 through 14.4 discuss the core techniques of feature engineering. Slides are linked above, and code is in "Part 1" and "Part 2".
 - 14.1: Throughout this lecture, Radial Basis Functions are used as an example. For our purposes, they are purely an example, and are not in-scope.
@@ -43,33 +43,33 @@ Sections 14.5 through 14.7 discuss pitfalls to be aware of in feature engineerin
 <tr>
 <td><strong>14.1</strong> <br>A demonstration of how to use scikit-learn to fit linear models.</td>
 <td><iframe width="300" height="300" height src="https://youtube.com/embed/lFzRiinHSzU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
-<td><a href="TODO" target="\_blank">14.1</a></td>
+<td><a href="https://docs.google.com/forms/d/e/1FAIpQLScKoxVcZBawfS7huMrIfguFDihAa8GOs6dFzjPMVFRHEbKtbA/viewform" target="\_blank">14.1</a></td>
 </tr>
 <tr>
 <td><strong>14.2</strong> <br>Feature functions, as a method of transforming existing numerical data, and encoding non-numerical data for use in modeling.</td>
 <td><iframe width="300" height="300" height src="https://youtube.com/embed/ET44iB169no" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
-<td><a href="TODO" target="\_blank">14.2</a></td>
+<td><a href="https://docs.google.com/forms/d/e/1FAIpQLScdIJF200dACeKi47uCOdtXpx9ZV8BawB03QHmVDwCUpHXcRw/viewform" target="\_blank">14.2</a></td>
 </tr>
 <tr>
 <td><strong>14.3</strong> <br>Defining what it means for a model to be linear. The constant feature. More sophisticated numerical features.</td>
 <td><iframe width="300" height="500" height src="https://youtube.com/embed/moL6aeW94Ps" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
-<td><a href="TODO" target="\_blank">14.3</a></td>
+<td><a href="https://docs.google.com/forms/d/e/1FAIpQLSeKjj41pgvhV9lYJqQPf-_6P5oi5j1OU5CtWHnUQYWIdKUZuw/viewform" target="\_blank">14.3</a></td>
 </tr>
 <tr>
 <td><strong>14.4</strong> <br>Numerically encoding categorical data using various encodings (one-hot, bag of words, n-gram).</td>
 <td><iframe width="300" height="300" height src="https://youtube.com/embed/y6mxtlWYo54" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
-<td><a href="https://docs.google.com/forms/u/1/d/e/1FAIpQLSfa51EPNYZaKOzDdwSHOa2q30azG-FfptGVsYd3-FWR3P7l8Q/viewform" target="\_blank">14.4</a></td>
+<td><a href="https://docs.google.com/forms/d/e/1FAIpQLSf72ZwGrseAT1C47zyO93HfgJUjCKGtMcgfHBdyMm87Hmnpig/viewform" target="\_blank">14.4</a></td>
 </tr>
 <tr>
 <td><strong>14.5</strong> <br>Issues we may run into when our design matrix has redundant features.</td>
 <td><iframe width="300" height="300" height src="https://youtube.com/embed/M11bB0Yd2is" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
-<td><a href="https://docs.google.com/forms/d/e/1FAIpQLScFzfjMMjJPkbbM6GnT1cahV2JXMmlsctkWxnnsE4wYXgILJA/viewform" target="\_blank">14.5</a></td>
+<td><a href="https://docs.google.com/forms/d/e/1FAIpQLSe9A87MKY7IPQ1Se4U9T3j2J1XMWO3eVDfZqEStZm9D7v0Uww/viewform" target="\_blank">14.5</a></td>
 </tr>
 <tr>
 <td><strong>14.6</strong> <br>Issues we may run into when our design matrix has more features than observations. Radial basis functions.</td>
 <td><iframe width="300" height="300" height src="https://youtube.com/embed/iwbqbPg740I" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
-<td><a href="https://docs.google.com/forms/d/e/1FAIpQLSfv2dziBpYygsAdICIZr9N9OmLQWeKDYDhN82PJjVLSkZvggA/viewform" target="\_blank">14.6</a></td>
+<td><a href="https://docs.google.com/forms/d/e/1FAIpQLSdsXmKzKcZOqR5ezNf-5wb8My53BvSME7fhTw4hNqmc4Kjr3Q/viewform" target="\_blank">14.6</a></td>
 </tr>
 <td><strong>14.7</strong> <br>Overfitting our model to the data we used to train it leads to poor generalizability to unseen data, which is the goal of modeling.</td>
 <td><iframe width="300" height="300" height src="https://youtube.com/embed/b6l9eVGERxY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
-<td><a href="https://docs.google.com/forms/d/e/1FAIpQLSfv2dziBpYygsAdICIZr9N9OmLQWeKDYDhN82PJjVLSkZvggA/viewform" target="\_blank">14.7</a></td>
+<td><a href="https://docs.google.com/forms/d/e/1FAIpQLScNQA-sJ8DIjiTagysbF_OCLts86pcdIz2TRRDGR4bPRSCLUw/viewform" target="\_blank">14.7</a></td>
