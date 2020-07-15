@@ -24,7 +24,7 @@ days:
       "**Lecture 15**{: .label .label-lecture } Bias-Variance Tradeoff":
         "[Ch. 12.3](https://www.textbook.ds100.org/ch/12/prob_risk.html), [Ch. 15.1-15.2](https://www.textbook.ds100.org/ch/15/bias_risk.html)"
       "**Homework 5**{: .label .label-hw } Regression":
-      "**Lab 8**{: .label .label-lab } Feature Engineering":
+      "**Lab 8**{: .label .label-lab } [Multiple Linear Regreession and Feature Engineering](http://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/su20&subPath=lab/lab08/) (due Jul. 16)":
   - date: 2020-07-17
     events:
       "**Live Session 4**{: .label .label-live } Lecture Recap (12-1PM)":
