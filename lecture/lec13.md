@@ -31,7 +31,7 @@ Make sure to complete the Quick Check questions in between each video. These are
 <tbody>
 <tr>
 <td><strong>13.1</strong> <br>A quick recap of the modeling process, and a roadmap for lecture.</td>
-<td><iframe width="300" height="300" height src="https://youtube.com/embed/EAMA7NySeJc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
+<td><iframe width="300" height="300" height src="https://youtube.com/embed/qL_enPmtwk8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
 <td><a href="https://docs.google.com/forms/d/e/1FAIpQLSfd9ur47_73vrpEhS29YeWJWolXEjidrnbRvgUs-TYM4Wtl6Q/viewform" target="\_blank">13.1</a></td>
 </tr>
 <tr>
