@@ -21,7 +21,7 @@ days:
       "**Discussion 8**{: .label .label-disc } [Geometry of Least Squares & One Hot Encoding](https://drive.google.com/file/d/1PTaosA9vfg1W2CzalSB2--eyfukW-mJO/view?usp=sharing) ([video](https://www.youtube.com/playlist?list=PLQCcNQgUcDfrvyQb2cSwFxjjQ7l-s5oC_)) ([solutions](https://drive.google.com/file/d/1cTgYqwA96T70xfssuiw2AbO7TW0sVFmG/view?usp=sharing))":
   - date: 2020-07-16
     events:
-      "**Lecture 15**{: .label .label-lecture } Bias-Variance Tradeoff":
+      "**Lecture 15**{: .label .label-lecture } [Bias and Variance](lecture/lec15)":
         "[12.3](https://www.textbook.ds100.org/ch/12/prob_risk.html), [15.1-15.2](https://www.textbook.ds100.org/ch/15/bias_risk.html)"
       "**Homework 5**{: .label .label-hw } [Regression](resources/assets/hw/hw5.pdf) (due Jul. 19)":
       "**Lab 8**{: .label .label-lab } [Multiple Linear Regression and Feature Engineering](http://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/su20&subPath=lab/lab08/) (due Jul. 16)":
