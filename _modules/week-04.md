@@ -18,7 +18,7 @@ days:
     events:
       "**Lecture 14**{: .label .label-lecture } [Feature Engineering](lecture/lec14)":
         "[Ch. 14](https://www.textbook.ds100.org/ch/14/feature_engineering.html)"
-      "**Discussion 8**{: .label .label-disc } [Geometry of Least Squares & One Hot Encoding](https://drive.google.com/file/d/1PTaosA9vfg1W2CzalSB2--eyfukW-mJO/view?usp=sharing) ([video](https://www.youtube.com/playlist?list=PLQCcNQgUcDfrvyQb2cSwFxjjQ7l-s5oC_))":
+      "**Discussion 8**{: .label .label-disc } [Geometry of Least Squares & One Hot Encoding](https://drive.google.com/file/d/1PTaosA9vfg1W2CzalSB2--eyfukW-mJO/view?usp=sharing) ([video](https://www.youtube.com/playlist?list=PLQCcNQgUcDfrvyQb2cSwFxjjQ7l-s5oC_)) ([solutions](https://drive.google.com/file/d/1cTgYqwA96T70xfssuiw2AbO7TW0sVFmG/view?usp=sharing))":
   - date: 2020-07-16
     events:
       "**Lecture 15**{: .label .label-lecture } Bias-Variance Tradeoff":
