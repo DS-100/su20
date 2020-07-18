@@ -27,5 +27,5 @@ days:
       "**Lab 8**{: .label .label-lab } [Multiple Linear Regression and Feature Engineering](http://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/su20&subPath=lab/lab08/) (due Jul. 16)":
   - date: 2020-07-17
     events:
-      "**Live Session 4**{: .label .label-live } Lecture Recap (12-1PM)":
+      "**Live Session 4**{: .label .label-live } RMSE, One-Hot Encoding, and Linear Models ([video](https://youtu.be/f-adF9gh1xo)) ([code](http://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/su20&subPath=lecture/live4/)) ([code HTML](resources/assets/lectures/live04/live4.html))":
 ---
