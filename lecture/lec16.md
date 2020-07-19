@@ -1,0 +1,90 @@
+---
+layout: page
+title: Lecture 16 – Cross-Validation and Regularization
+nav_exclude: true
+---
+
+# Lecture 16 – Cross-Validation and Regularization
+
+by Joseph Gonzalez, Paul Shao (Spring 2020), and Suraj Rampure (Summer 2020)
+
+- [slides](TODO)
+- [video playlist](https://www.youtube.com/playlist?list=PLQCcNQgUcDfrT08eTU0FccVtIcMx416Hq)
+- [code](TODO)
+- code HTML: [Part 1](TODO), [Part 2](TODO)
+
+**Important:** This lecture is a combination of several lectures from Spring 2020 (this is why the video titles don't match our numbering), plus a piece of "glue" added in this summer. Read this before proceeding with the lectures, as it details what materials you should focus on.
+
+Sections 16.1 through 16.4 discuss train-test splits and cross-validation.
+- 16.1 walks through why we need to split our data into train and test in the first place, and how cross-validation works. It primarily consists of slides.
+- 16.2 and 16.3 walk through the process of creating a basic train-test split, and evaluating models that we've fit on our training data using our testing data. Code is in "Part 1".
+- 16.4 walks through the process of implementing cross-validation. In this video there references to a `Pipeline` object in `scikit-learn`. This is **not** in scope for Summer 2020, so do not worry about its details. Code is in "Part 1".
+
+Sections 16.5 and 16.6 discuss regularization.
+- 16.5 discusses why we need to regularize, and how penalties on the norm of our parameter vector accomplish this goal.
+- 16.6 explicitly lists the optimal model parameter when using the L2 penalty on our linear model (called "ridge regression").
+
+There are also three **supplementary** videos accompanying this lecture. They don't introduce any new material, but may still be helpful for your understanding. They are listed as supplementary and not required since the runtime of this lecture is already quite long. They do not have accompanying Quick Checks for this reason.
+- 16.7 and 16.8 walk through implementing ridge and LASSO regression in a notebook. These videos are helpful in explaining how regularization and cross-validation are used in practice. These videos again use `Pipeline`, which is not in scope. Code is in "Part 2".
+- 16.9 is another **supplementary** video, created by Paul Shao (a TA for Data 100 in Spring 2020). It gives a great high-level overview of both the bias-variance tradeoff and regularization.
+
+
+<table>
+<colgroup>
+<col style="width: 25%" />
+<col style="width: 25%" />
+<col style="width: 25%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th></th>
+<th>Video</th>
+<th>Quick Check</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>16.1</strong> <br>Training error vs. testing error. Why we need to split our data into train and test. How cross-validation works, and why it is useful.</td>
+<td><iframe width="300" height="300" height src="https://youtube.com/embed/UJ3WGuJ1zao" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
+<td><a href="https://docs.google.com/forms/d/e/1FAIpQLSd9f2CReGvMI7e2keOf9wIe6RRmP-QkVZ_To5AibEUbUjoldw/viewform" target="\_blank">16.1</a></td>
+</tr>
+<tr>
+<td><strong>16.2</strong> <br>Using scikit-learn to construct a train-test split.</td>
+<td><iframe width="300" height="300" height src="https://youtube.com/embed/_Bzfy7BTjz0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
+<td><a href="https://docs.google.com/forms/d/e/1FAIpQLSfYxewRwQfUYC-aUNkeYYZsBsXzEAA-pmlbiEjA5J6rt1nTjg/viewform" target="\_blank">16.2</a></td>
+</tr>
+<tr>
+<td><strong>16.3</strong> <br>Building a linear model and determining its training and test error.</td>
+<td><iframe width="300" height="500" height src="https://youtube.com/embed/2i7yj4JhIkw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
+<td><a href="https://docs.google.com/forms/d/e/1FAIpQLSfllcUqhRkfS6KEaxty8or1l-3tzMhqpnKIJyT9KJGvbWXkAQ/viewform" target="\_blank">16.3</a></td>
+</tr>
+<tr>
+<td><strong>16.4</strong> <br>Implementing cross-validation, and using it to help select a model.</td>
+<td><iframe width="300" height="300" height src="https://youtube.com/embed/m8580Et4pjY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
+<td><a href="https://docs.google.com/forms/d/e/1FAIpQLSeqIHrI4zCT3k1B9GwYgyVuvJG4sbZD4swPaQ6rUxotXN622A/viewform" target="\_blank">16.4</a></td>
+</tr>
+<tr>
+<td><strong>16.5</strong> <br>An overview of regularization.</td>
+<td><iframe width="300" height="300" height src="https://youtube.com/embed/NqKtsZpHmRY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
+<td><a href="https://docs.google.com/forms/d/e/1FAIpQLSc7fuifBV42biOkU7D63bLTWdHdCMWNIbl4acxWWLZaFS0hcQ/viewform" target="\_blank">14.5</a></td>
+</tr>
+<tr>
+<td><strong>16.6</strong> <br>Closed-form solution for least squares regression with an L2 norm penalty (called "ridge regression").</td>
+<td><iframe width="300" height="300" height src="" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
+<td><a href="https://docs.google.com/forms/d/e/1FAIpQLSc0XO2UjdLbqF4pcLXqfkNKrmGKOIiA7Nso9j6mJzlpfJl9Hg/viewform" target="\_blank">16.6</a></td>
+</tr>
+<tr>
+<td><strong>16.7</strong> <br>*Supplemental.* Using ridge regression and cross-validation in scikit-learn.</td>
+<td><iframe width="300" height="300" height src="https://youtube.com/embed/frdGPG10dOA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
+<td><a>N/A</a></td>
+</tr>
+<tr>
+<td><strong>16.8</strong> <br>*Supplemental.* Using LASSO regression and cross-validation in scikit-learn.</td>
+<td><iframe width="300" height="300" height src="https://youtube.com/embed/hqZNVrZ3flw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
+<td><a>N/A</a></td>
+</tr>
+<tr>
+<td><strong>16.9</strong> <br>*Supplemental.* An overview of the bias-variance tradeoff, and how it interfaces with regularization.</td>
+<td><iframe width="300" height="300" height src="https://youtube.com/embed/U2J75Iq2nrk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
+<td><a>N/A</a></td>
+</tr>

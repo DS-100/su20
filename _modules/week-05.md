@@ -27,5 +27,5 @@ days:
       "**Lab 10**{: .label .label-lab } Logistic Regression":
   - date: 2020-07-24
     events:
-      "**Live Session 5**{: .label .label-live } Lecture Recap (12-1PM)":
+      "**Live Session 5**{: .label .label-live } Midterm 2 Review Session (12-2PM)":
 ---
