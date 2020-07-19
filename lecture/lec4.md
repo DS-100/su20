@@ -11,7 +11,7 @@ by Allen Shen (Summer 2020)
 - [slides](https://docs.google.com/presentation/d/1caEDYQvjCiDbdXhk_LN-KJcV-EwX0YpLzX5chVptDgU/edit?usp=sharing)
 - [video playlist](https://www.youtube.com/playlist?list=PLQCcNQgUcDfov5xwxGogaGS28vHZuA4r1)
 - [code](https://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/su20&subPath=lecture/lec04/)
-- [code HTML](http://www.ds100.org/su20/resources/assets/lectures/lec04/lec04.html)
+- [code HTML](../../resources/assets/lectures/lec04/lec04.html)
 - [code walkthrough (Josh Hug)](https://youtu.be/QCrHZnLM0H4)
 - [code walkthrough (Allen Shen)](https://youtu.be/zetdBg61eaE)
 

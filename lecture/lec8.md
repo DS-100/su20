@@ -11,7 +11,7 @@ by Josh Hug (Fall 2019)
 - [slides](https://docs.google.com/presentation/d/1SeRNPLRM68QKLChO-bpD0t524jerT5nIEkAd5JDUpes/edit?usp=sharing)
 - [video playlist](https://www.youtube.com/watch?v=jXw2b3UuSnA&list=PLQCcNQgUcDfr5QB2o5HN3ajgUtQUIh9XP)
 - [code](https://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/su20&subPath=lecture/lec08/)
-- [code HTML](http://www.ds100.org/su20/resources/assets/lectures/lec08/lec08.html)
+- [code HTML](../../resources/assets/lectures/lec08/lec08.html)
 
 Make sure to complete the Quick Check questions in between each video. These are ungraded, but it's in your best interest to do them.
 
