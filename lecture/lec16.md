@@ -69,8 +69,8 @@ There are also three **supplementary** videos accompanying this lecture. They do
 <td><a href="https://docs.google.com/forms/d/e/1FAIpQLSc7fuifBV42biOkU7D63bLTWdHdCMWNIbl4acxWWLZaFS0hcQ/viewform" target="\_blank">14.5</a></td>
 </tr>
 <tr>
-<td><strong>16.6</strong> <br>Closed-form solution for least squares regression with an L2 norm penalty (called "ridge regression").</td>
-<td><iframe width="300" height="300" height src="" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
+<td><strong>16.6</strong> <br>Ridge regression and LASSO regression.</td>
+<td><iframe width="300" height="300" height src="https://youtube.com/embed/B-labBbXj_c" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
 <td><a href="https://docs.google.com/forms/d/e/1FAIpQLSc0XO2UjdLbqF4pcLXqfkNKrmGKOIiA7Nso9j6mJzlpfJl9Hg/viewform" target="\_blank">16.6</a></td>
 </tr>
 <tr>
