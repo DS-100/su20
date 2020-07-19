@@ -17,6 +17,7 @@ by Josh Hug (Fall 2019) and Joseph Gonzalez (Spring 2020)
 - In order to follow the lecture, you should be familiar with the ideas from Discussion 1 Problem 2 (Calculus).
 - The reference to Homework 6 Problem 7 in 17.2 should be a reference to Homework 5 Problem 3.
 - In Homework 7, you will get more practice with learning rates and gradient descent.
+- There is an updated version of the [Loss Game](https://gradient-game.herokuapp.com/) mentioned in 17.3.
 
 <table>
 <colgroup>
