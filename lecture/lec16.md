@@ -8,10 +8,10 @@ nav_exclude: true
 
 by Joseph Gonzalez, Paul Shao (Spring 2020), and Suraj Rampure (Summer 2020)
 
-- [slides](TODO)
+- [slides](https://docs.google.com/presentation/d/1ebqBY2xvCIgEGWy_-JzalXFn4C4ZqS8dLs7uKTPWZuQ/edit#slide=id.g8c24bb6956_0_0)
 - [video playlist](https://www.youtube.com/playlist?list=PLQCcNQgUcDfrT08eTU0FccVtIcMx416Hq)
-- [code](TODO)
-- code HTML: [Part 1](TODO), [Part 2](TODO)
+- [code](https://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/su20&subPath=lecture/lec16/)
+- code HTML: [Part 1](../../resources/assets/lectures/lec16/lec16-part1-cv.html), [Part 2](../../resources/assets/lectures/lec16/lec16-part2-regularization.html)
 
 **Important:** This lecture is a combination of several lectures from Spring 2020 (this is why the video titles don't match our numbering), plus a piece of "glue" added in this summer. Read this before proceeding with the lectures, as it details what materials you should focus on.
 
