@@ -9,7 +9,7 @@ days:
   - date: 2020-08-04
     events:
       "**Lecture 24**{: .label .label-lecture } Clustering":
-      "**Lab 13**{: .label .label-lab } Clustering":
+      "**Lab 13**{: .label .label-lab } PCA":
 
   - date: 2020-08-05
     events:
@@ -19,4 +19,5 @@ days:
   - date: 2020-08-06
     events:
       "**Lecture 26**{: .label .label-live } Conclusion (live)":
+      "**Lab 14**{: .label .label-lab } Clustering":
 ---

@@ -18,4 +18,4 @@ days:
 ---
 
 
-<script src="../assets/js/highlight.js"></script>
+<script src="assets/js/highlight.js"></script>
