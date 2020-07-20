@@ -9,12 +9,12 @@ days:
   - date: 2020-07-28
     events:
       "**Lecture 20**{: .label .label-lecture } Decision Trees":
-        "[Ch. 18.1, 18.3](https://www.textbook.ds100.org/ch/18/hyp_intro.html)"
       "**Lab 11**{: .label .label-lab } Decision Trees":
 
   - date: 2020-07-29
     events:
       "**Lecture 21**{: .label .label-lecture } Inference for Modeling":
+        "[Ch. 18.1, 18.3](https://www.textbook.ds100.org/ch/18/hyp_intro.html)"
       "**Discussion 12**{: .label .label-disc } Decision Trees & Random Forests":
       "**Project 2**{: .label .label-proj } Spam/Ham Classification":
   - date: 2020-07-30
