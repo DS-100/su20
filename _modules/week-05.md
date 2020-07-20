@@ -8,6 +8,7 @@ days:
         "[Ch. 16](https://www.textbook.ds100.org/ch/16/reg_intro.html), [Ch. 15.3](https://www.textbook.ds100.org/ch/15/bias_cv.html)"
       "**Discussion 9**{: .label .label-disc } Bias Variance & Cross Validation":
       "**Homework 6**{: .label .label-hw } [Housing](http://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/su20&subPath=hw/hw6/) (due Jul. 22)":
+      "**Survey 5**{: .label .label-survey } [Week 5 Survey](https://docs.google.com/forms/d/e/1FAIpQLSfKnBxGedLmuBvLFA5jHjySUaOsJkdI90L4mHWsolW65lKk3A/viewform) (due Jul. 22)":
   - date: 2020-07-21
     events:
       "**Lecture 17**{: .label .label-lecture } Gradient Descent":
