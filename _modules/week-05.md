@@ -4,7 +4,7 @@ weekNumber: 5
 days:
   - date: 2020-07-20
     events:
-      "**Lecture 16**{: .label .label-lecture } Regularization & Cross-Validation":
+      "**Lecture 16**{: .label .label-lecture } [Regularization & Cross-Validation](lecture/lec16)":
         "[Ch. 16](https://www.textbook.ds100.org/ch/16/reg_intro.html), [Ch. 15.3](https://www.textbook.ds100.org/ch/15/bias_cv.html)"
       "**Discussion 9**{: .label .label-disc } Bias Variance & Cross Validation":
       "**Homework 6**{: .label .label-hw } [Housing](http://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/su20&subPath=hw/hw6/) (due Jul. 22)":
