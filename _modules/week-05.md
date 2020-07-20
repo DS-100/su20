@@ -13,7 +13,7 @@ days:
     events:
       "**Lecture 17**{: .label .label-lecture } Gradient Descent":
         "[Ch. 11](https://www.textbook.ds100.org/ch/11/gradient_descent.html)"
-      "**Lab 9**{: .label .label-lab } Cross Validation":
+      "**Lab 9**{: .label .label-lab } [Cross Validation](http://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/su20&subPath=lab/lab09/) (due Jul. 21)":
 
   - date: 2020-07-22
     events:
