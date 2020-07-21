@@ -11,7 +11,7 @@ days:
       "**Survey 5**{: .label .label-survey } [Week 5 Survey](https://docs.google.com/forms/d/e/1FAIpQLSfKnBxGedLmuBvLFA5jHjySUaOsJkdI90L4mHWsolW65lKk3A/viewform) (due Jul. 22)":
   - date: 2020-07-21
     events:
-      "**Lecture 17**{: .label .label-lecture } Gradient Descent":
+      "**Lecture 17**{: .label .label-lecture } [Gradient Descent](lecture/lec17)":
         "[Ch. 11](https://www.textbook.ds100.org/ch/11/gradient_descent.html)"
       "**Lab 9**{: .label .label-lab } [Cross-Validation](http://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/su20&subPath=lab/lab09/) (due Jul. 21)":
 
