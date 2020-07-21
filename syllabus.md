@@ -162,8 +162,7 @@ Scores in the course are assigned according to the following weights:
   - Alternate exams will only be given to students with a documented conflict, or to those who are in timezones where 7-8:30PM PDT is extremely inconvenient.
 - **Final:** We are currently planning on having a two-day final, held on **Wednesday, August 12th** and **Thursday, August 13th**, from **7-8:30PM PDT** on both days.
   - Each day will consist of a separate 1.5 hour exam.
-  - We may switch to a more traditional one day, 3 hour exam on **Thursday, August 13th** from **6-9PM PDT**.
-  - We intend on using Zoom to proctor students during the final exam.
+  - The final will not be proctored at all (previously, we intended on using Zoom to proctor).
 
 <br>
 
