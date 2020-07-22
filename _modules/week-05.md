@@ -19,7 +19,7 @@ days:
     events:
       "**Lecture 18**{: .label .label-lecture } [Logistic Regression I](lecture/lec18)":
         "[Ch. 17.1-17.3](https://www.textbook.ds100.org/ch/17/classification_prob.html)"
-      "**Discussion 10**{: .label .label-disc } Gradient Descent & Logistic Regression":
+      "**Discussion 10**{: .label .label-disc } [Gradient Descent & Logistic Regression](https://drive.google.com/file/d/1PLGHvxvVRCbHpQQMbuKj7jn-9rI4ospI/view?usp=sharing) ([video](https://www.youtube.com/playlist?list=PLQCcNQgUcDfoFlC1y5GhTCFd0W84oFpO2))":
   - date: 2020-07-23
     events:
       "**Lecture 19**{: .label .label-lecture } Logistic Regression II":
