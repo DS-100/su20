@@ -25,7 +25,7 @@ days:
       "**Lecture 19**{: .label .label-lecture } Logistic Regression II":
         "[Ch. 17.4-17.7](https://www.textbook.ds100.org/ch/17/classification_log_reg.html)"
       "**Homework 7**{: .label .label-hw } Gradient Descent & Logistic Regression":
-      "**Lab 10**{: .label .label-lab } Logistic Regression":
+      "**Lab 10**{: .label .label-lab } [Logistic Regression](http://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/su20&subPath=lab/lab10/) (due Jul. 23)":
   - date: 2020-07-24
     events:
       "**Live Session 5**{: .label .label-live } Midterm 2 Review Session (12-2PM)":
