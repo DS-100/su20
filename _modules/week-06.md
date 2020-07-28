@@ -8,7 +8,7 @@ days:
       "**Discussion 11**{: .label .label-disc } [Cross-Entropy Loss and Classification](https://drive.google.com/file/d/1qQlYKVrB-mfSTui2lWdZ0Vnpil__vt_z/view) ([video](https://www.youtube.com/playlist?list=PLQCcNQgUcDfoJq_L7AXTNQJEtbhPfwa_U)) ([solutions](https://drive.google.com/file/d/1aKdObFfmEhbUdiVKHn__kLTqAn_s4l3j/view))":
   - date: 2020-07-28
     events:
-      "**Lecture 20**{: .label .label-lecture } Decision Trees":
+      "**Lecture 20**{: .label .label-lecture } [Decision Trees](lecture/lec20)":
       "**Lab 11**{: .label .label-lab } Decision Trees":
 
   - date: 2020-07-29
