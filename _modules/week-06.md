@@ -9,7 +9,7 @@ days:
   - date: 2020-07-28
     events:
       "**Lecture 20**{: .label .label-lecture } [Decision Trees](lecture/lec20)":
-      "**Lab 11**{: .label .label-lab } Decision Trees":
+      "**Lab 11**{: .label .label-lab } [Decision Trees and Random Forests](http://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/su20&subPath=lab/lab11/) (due Jul. 30)":
 
   - date: 2020-07-29
     events:
