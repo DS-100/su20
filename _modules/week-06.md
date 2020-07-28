@@ -18,7 +18,7 @@ days:
       "**Lecture 21**{: .label .label-lecture } Inference for Modeling":
         "[Ch. 18.1, 18.3](https://www.textbook.ds100.org/ch/18/hyp_intro.html)"
       "**Discussion 12**{: .label .label-disc } Decision Trees & Random Forests":
-      "**Project 2**{: .label .label-proj } Spam/Ham Classification":
+      "**Project 2**{: .label .label-proj } [Spam/Ham Classification](http://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/su20&subPath=proj/proj2/)":
   - date: 2020-07-30
     events:
       "**Lecture 22**{: .label .label-lecture } Dimensionality Reduction":
