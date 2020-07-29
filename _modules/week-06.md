@@ -17,7 +17,7 @@ days:
     events:
       "**Lecture 21**{: .label .label-lecture } [Inference for Modeling](lecture/lec21)":
         "[Ch. 18.1, 18.3](https://www.textbook.ds100.org/ch/18/hyp_intro.html)"
-      "**Discussion 12**{: .label .label-disc } Decision Trees & Random Forests":
+      "**Discussion 12**{: .label .label-disc } [Decision Trees & Random Forests](https://drive.google.com/file/d/1vJlZ2wFKpvOM5mQ27MIpGJRX1DiRHyIJ/view?usp=sharing) ([video](https://www.youtube.com/playlist?list=PLQCcNQgUcDfqIhbpw2zN7AkiiC3i4UF-V))":
       "**Project 2**{: .label .label-proj } [Spam/Ham Classification](http://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/su20&subPath=proj/proj2/) (due Aug. 5)":
   - date: 2020-07-30
     events:
