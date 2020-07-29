@@ -11,7 +11,7 @@ days:
     events:
       "**Lecture 20**{: .label .label-lecture } [Decision Trees](lecture/lec20)":
       "**Lab 11**{: .label .label-lab } [Decision Trees and Random Forests](http://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/su20&subPath=lab/lab11/) (due Jul. 30)":
-      "**Homework 9**{: .label .label-hw } [Predicting Taxi Ride Duration](http://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/su20&subPath=hw/hw9/)":
+      "**Homework 9**{: .label .label-hw } [Predicting Taxi Ride Durations](http://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/su20&subPath=hw/hw9/) (due Aug. 9)":
 
   - date: 2020-07-29
     events:
