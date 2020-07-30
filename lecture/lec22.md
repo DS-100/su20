@@ -17,8 +17,8 @@ by Josh Hug (Fall 2019)
 - There are a couple of small typos in 20.4. To check whether a set of vectors is an orthonormal set, we should check whether V^T @ V is the identity matrix (not V @ V^T). For matrices whose columns form an orthonormal set, the property that the matrix's transpose is equivalent to its inverse only holds true if the matrix is square.
 - There is a set of extra slides at the end of the lecture slides. These slides contain a review of concepts in linear algebra such as matrix multiplication and rank.
 
-<colgroup>
 <table>
+<colgroup>
 <col style="width: 25%" />
 <col style="width: 25%" />
 <col style="width: 25%" />

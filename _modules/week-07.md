@@ -13,8 +13,8 @@ days:
 
   - date: 2020-08-05
     events:
-      "**Lecture 25**{: .label .label-live } Guest Lecture":
-      "**Discussion 14**{: .label .label-disc } Clustering":
+      "**Lecture 25**{: .label .label-lecture } Big Data":
+      "**Discussion 14**{: .label .label-disc } Clustering & Big Data":
       "**Homework 8**{: .label .label-hw } PCA":
   - date: 2020-08-06
     events:
