@@ -4,10 +4,10 @@ weekNumber: 8
 days:
   - date: 2020-08-10
     events:
-      "**Lecture**{: .label .label-lecture } Review":
+      "**Discussion**{: .label .label-disc } Topical Review":
   - date: 2020-08-11
     events:
-      "**Lecture**{: .label .label-lecture } Review":
+      "**Discussion**{: .label .label-disc } Topical Review":
 
   - date: 2020-08-12
     events:

@@ -20,4 +20,7 @@ days:
     events:
       "**Lecture 26**{: .label .label-live } Conclusion (live)":
       "**Lab 14**{: .label .label-lab } Clustering":
+  - date: 2020-08-07
+    events:
+      "**Live Session 7**{: .label .label-live } Post-Midterm 2 Recap":
 ---
