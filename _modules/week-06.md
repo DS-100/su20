@@ -21,7 +21,7 @@ days:
       "**Project 2**{: .label .label-proj } [Spam/Ham Classification](http://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/su20&subPath=proj/proj2/) (due Aug. 5)":
   - date: 2020-07-30
     events:
-      "**Lecture 22**{: .label .label-lecture } Dimensionality Reduction":
+      "**Lecture 22**{: .label .label-lecture } [Dimensionality Reduction](lecture/lec22)":
       "**Lab 12**{: .label .label-lab } [Bootstrap](http://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/su20&subPath=lab/lab12/) (due Jul. 31)":
   - date: 2020-07-31
     events:
