@@ -25,5 +25,5 @@ days:
       "**Lab 12**{: .label .label-lab } [Bootstrap](http://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/su20&subPath=lab/lab12/) (due Jul. 31)":
   - date: 2020-07-31
     events:
-      "**Live Session 6**{: .label .label-live } Midterm 2 Recap":
+      "**Live Session 6**{: .label .label-live } Midterm 2 Recap ([video](https://youtu.be/AUZEdhGN4Uw))":
 ---
