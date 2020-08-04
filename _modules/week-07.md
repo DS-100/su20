@@ -5,7 +5,7 @@ days:
   - date: 2020-08-03
     events:
       "**Lecture 23**{: .label .label-lecture } [Principal Component Analysis](lecture/lec23)":
-      "**Discussion 13**{: .label .label-disc } [PCA](https://drive.google.com/file/d/1qhlSWvnpat55P6ZtbiVb7SZRIFsYK_eZ/view?usp=sharing) ([video](https://www.youtube.com/playlist?list=PLQCcNQgUcDfr-mPBLWPHIUpVR3S5B_krN))":
+      "**Discussion 13**{: .label .label-disc } [PCA](https://drive.google.com/file/d/1qhlSWvnpat55P6ZtbiVb7SZRIFsYK_eZ/view?usp=sharing) ([video](https://www.youtube.com/playlist?list=PLQCcNQgUcDfr-mPBLWPHIUpVR3S5B_krN)) ([solutions](https://drive.google.com/file/d/1K8zdN9k4hjPEMSSsK7s8SVFXKgPJsrpu/view?usp=sharing))":
   - date: 2020-08-04
     events:
       "**Lecture 24**{: .label .label-lecture } [Clustering](lecture/lec24)":
