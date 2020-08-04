@@ -37,7 +37,7 @@ by Josh Hug (Fall 2019)
 <td><a href="https://forms.gle/Ga4aaMvFNd2nuVHx5" target="\_blank">24.1</a></td>
 </tr>
 <tr>
-<td><strong>24.2</strong> <br>The K-Means clustering algorithm. Example of K-Means.</td>
+<td><strong>24.2</strong> <br>The K-Means clustering algorithm. Example of K-Means clustering.</td>
 <td><iframe width="300" height="300" height src="https://youtube.com/embed/iylHsVRqnu8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
 <td><a href="https://forms.gle/WJN6w32HMLvvJJH89" target="\_blank">24.2</a></td>
 </tr>
@@ -54,5 +54,5 @@ by Josh Hug (Fall 2019)
 <tr>
 <td><strong>24.5</strong> <br>Picking the number of clusters. The elbow method and silhouette scores. Summary of clustering and machine learning.</td>
 <td><iframe width="300" height="300" height src="https://youtube.com/embed/rPbxQo1Uf78" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
-<td><a href="https://forms.gle/nusQtqHKvpiqTi9R9" target="\_blank">22.5</a></td>
+<td><a href="https://forms.gle/nusQtqHKvpiqTi9R9" target="\_blank">24.5</a></td>
 </tr>

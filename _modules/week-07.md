@@ -8,7 +8,7 @@ days:
       "**Discussion 13**{: .label .label-disc } [PCA](https://drive.google.com/file/d/1qhlSWvnpat55P6ZtbiVb7SZRIFsYK_eZ/view?usp=sharing) ([video](https://www.youtube.com/playlist?list=PLQCcNQgUcDfr-mPBLWPHIUpVR3S5B_krN))":
   - date: 2020-08-04
     events:
-      "**Lecture 24**{: .label .label-lecture } Clustering":
+      "**Lecture 24**{: .label .label-lecture } [Clustering](lecture/lec24)":
       "**Lab 13**{: .label .label-lab } [PCA](http://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/su20&subPath=lab/lab13/) (due Aug. 4)":
 
   - date: 2020-08-05
