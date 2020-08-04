@@ -6,6 +6,7 @@ days:
     events:
       "**Lecture 23**{: .label .label-lecture } [Principal Component Analysis](lecture/lec23)":
       "**Discussion 13**{: .label .label-disc } [PCA](https://drive.google.com/file/d/1qhlSWvnpat55P6ZtbiVb7SZRIFsYK_eZ/view?usp=sharing) ([video](https://www.youtube.com/playlist?list=PLQCcNQgUcDfr-mPBLWPHIUpVR3S5B_krN)) ([solutions](https://drive.google.com/file/d/1K8zdN9k4hjPEMSSsK7s8SVFXKgPJsrpu/view?usp=sharing))":
+      "**Survey 7**{: .label .label-survey } [Week 7 Survey](https://docs.google.com/forms/d/e/1FAIpQLScFLPBU8xYLlfhQXXz1oz9DhJl_k7pHJ6L858w5kXkeoLUJzQ/viewform) (due Aug. 5)":
   - date: 2020-08-04
     events:
       "**Lecture 24**{: .label .label-lecture } [Clustering](lecture/lec24)":
