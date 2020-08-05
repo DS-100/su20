@@ -16,7 +16,7 @@ days:
     events:
       "**Lecture 25**{: .label .label-lecture } [Big Data](lecture/lec25)":
       "**Discussion 14**{: .label .label-disc } [Clustering & Big Data](https://drive.google.com/file/d/16HRV0hab63XiB5oX7h7FpgNj7u7d4-2G/view?usp=sharing) ([video](https://www.youtube.com/playlist?list=PLQCcNQgUcDfoUknZFeLQkYdJiWdX03RhO))":
-      "**Homework 8**{: .label .label-hw } PCA":
+      "**Homework 8**{: .label .label-hw } [PCA](http://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/su20&subPath=hw/hw8/) (due Aug. 9)":
   - date: 2020-08-06
     events:
       "**Lecture 26**{: .label .label-live } Conclusion (live)":
