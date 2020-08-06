@@ -19,7 +19,7 @@ days:
       "**Homework 8**{: .label .label-hw } [PCA](http://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/su20&subPath=hw/hw8/) (due Aug. 9)":
   - date: 2020-08-06
     events:
-      "**Lecture 26**{: .label .label-live } Conclusion (live, 9:30-11AM PDT) ([slides](https://docs.google.com/presentation/d/15fLlqypliZRwb79uYLF8zIUX0ybgIBx9J-y2lD7mZ1Y/edit#slide=id.p))":
+      "**Lecture 26**{: .label .label-live } Conclusion ([slides](https://docs.google.com/presentation/d/15fLlqypliZRwb79uYLF8zIUX0ybgIBx9J-y2lD7mZ1Y/edit#slide=id.p)) ([video](https://youtu.be/xatAhfcfCuA)) ([code](https://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/su20&subPath=lecture/lec26/)) ([code HTML](resources/assets/lectures/lec26/lec26.html))":
       "**Lab 14**{: .label .label-lab } [Clustering](http://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/su20&subPath=lab/lab14/) (due Aug. 6)":
   - date: 2020-08-07
     events:
