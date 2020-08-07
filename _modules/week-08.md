@@ -4,6 +4,7 @@ weekNumber: 8
 days:
   - date: 2020-08-10
     events:
+      "**Guest Lecture**{: .label .label-live } Prof. Ziad Obermeyer (10-11 AM)":
       "**Discussion**{: .label .label-disc } Topical Review":
       "**Survey 8**{: .label .label-survey } [Week 8 Survey](https://docs.google.com/forms/d/e/1FAIpQLSdLyoUtFDZRFAB2wLKYZAiuZVaEw-0cPug3Sr8WDzgDLKZs_w/viewform) (due Aug. 11)":
   - date: 2020-08-11
@@ -16,6 +17,9 @@ days:
   - date: 2020-08-13
     events:
       "**Exam**{: .label .label-exam } Final Part 2 (7-8:30PM)":
+  - date: 2020-08-14
+    events:
+      "**Guest Lecture**{: .label .label-live } Careers in Data Science Panel (1-2 PM)":
 ---
 
 

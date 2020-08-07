@@ -12,6 +12,7 @@ by Josh Hug (Fall 2019)
 - [video playlist](https://www.youtube.com/playlist?list=PLQCcNQgUcDfpHmwmjTZxdkRCEnVVGuiU1)
 - [code](https://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/su20&subPath=lecture/lec23/)
 - [code HTML](../../resources/assets/lectures/lec23/lec23.html)
+- [Live Lecture PCA notes](../../resources/assets/lectures/live07/live7.pdf)
 - [(Optional) PCA Tutorial](https://arxiv.org/pdf/1404.1100.pdf)
 
 Make sure to complete the Quick Check questions in between each video. These are ungraded, but it's in your best interest to do them.
