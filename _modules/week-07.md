@@ -23,5 +23,5 @@ days:
       "**Lab 14**{: .label .label-lab } [Clustering](http://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/su20&subPath=lab/lab14/) (due Aug. 6)":
   - date: 2020-08-07
     events:
-      "**Live Session 7**{: .label .label-live } Post-Midterm 2 Recap":
+      "**Live Session 7**{: .label .label-live } Decision Trees and PCA ([video](https://youtu.be/5wcAP91DSFo)) ([notes](resources/assets/lectures/live07/live7.pdf)) ([code](http://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/su20&subPath=lecture/live7/)) ([code HTML](resources/assets/lectures/live07/live7.html))":
 ---
