@@ -4,7 +4,7 @@ weekNumber: 8
 days:
   - date: 2020-08-10
     events:
-      "**Guest Lecture**{: .label .label-live } Prof. Ziad Obermeyer (10-11 AM)":
+      "**Guest Lecture**{: .label .label-live } Prof. Ziad Obermeyer ([slides](https://docs.google.com/presentation/d/19d58VEfbShHQtK5RAplf4bx6HpazCTtQxhQ3dxxCPmg/edit?usp=sharing)) ([video](https://youtu.be/Dbr8T9ktW6c))":
       "**Discussion**{: .label .label-disc } Topical Review":
       "**Survey 8**{: .label .label-survey } [Week 8 Survey](https://docs.google.com/forms/d/e/1FAIpQLSdLyoUtFDZRFAB2wLKYZAiuZVaEw-0cPug3Sr8WDzgDLKZs_w/viewform) (due Aug. 11)":
   - date: 2020-08-11
