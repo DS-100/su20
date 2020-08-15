@@ -19,7 +19,7 @@ days:
       "**Exam**{: .label .label-exam } Final Part 2 (7-8:30PM)":
   - date: 2020-08-14
     events:
-      "**Guest Lecture**{: .label .label-live } Careers in Data Science Panel (1-2 PM)":
+      "**Guest Lecture**{: .label .label-live } Careers in Data Science Panel ([video](https://youtu.be/oj5xQMp000E))":
 ---
 
 
