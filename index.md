@@ -5,6 +5,9 @@ nav_order: 1
 description: A week-to-week description of the content covered in the course.
 ---
 
+{: .warning }
+⚠️ This content is archived as of March 2026 and is retained exclusively for reference. [Find current offerings.](https://ds100.org/)
+
 # Principles and Techniques of Data Science
 {: .mb-2 }
 UC Berkeley, Summer 2020

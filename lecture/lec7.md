@@ -4,6 +4,9 @@ title: Lecture 7 – Data Cleaning and EDA
 nav_exclude: true
 ---
 
+{: .warning }
+⚠️ This content is archived as of March 2026 and is retained exclusively for reference. [Find current offerings.](https://ds100.org/)
+
 # Lecture 7 – Data Cleaning and EDA
 
 by Joseph Gonzalez (Spring 2020)
